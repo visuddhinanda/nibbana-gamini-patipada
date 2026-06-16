@@ -1,0 +1,19 @@
+# 社区术语表勘误表 (glossary errata)
+# 这些条目在 wikipali 社区术语表中明显有误/损坏，翻译时【不采用】其译法，
+# 改用 correct 列的正确译法并标注巴利。供日后回传修正社区术语表。
+# 格式: pali <TAB> 术语表错误译法 <TAB> 正确译法 <TAB> 说明
+bhaṅga	天然混紡	坏灭	"天然混紡"为纺织术语，与 bhaṅga(坏灭/灭) 完全无关，疑数据污染
+paramattha	神我	究竟法	"神我"即 ātman，方向相反；paramattha 为究竟法/胜义
+saṅkhāranimitta	现象灭去	行相	应为"行之相/行相"，非"灭去"
+ādīnavānupassanā	过患频观	过患随观	"频"为"随(anupassanā)"之误
+sammasanañāṇa	触及智	思惟智	通行作"思惟智"，且与本章标题"思惟智"一致
+cuti	入灭	死殁	"入灭"=parinibbāna，方向不符；cuti 为死殁/死(死亡心)
+aniccānupassanāñāṇa	无常频观智	无常随观智	"频"为"随(anupassanā)"之误(系统性"频/随"污染)
+dukkhānupassanāñāṇa	苦频观智	苦随观智	同上"频/随"污染
+anattānupassanāñāṇa	无我频观智	无我随观智	同上"频/随"污染
+visaya	位置定语	境	"位置定语"为语法分析残留，非词义；visaya=境/所缘
+okāsa	地点状语	空间	"地点状语"为语法术语残留，非词义；okāsa=空间/处所/机会
+padhāna	中心词	主导	"中心词"为语法术语(head word)残留；padhāna=主要/主导/精勤
+vāra	界限	节	"界限"义不符；vāra=节/番/段(篇章单位)
+# 通则：术语表中凡 ānupassanā 系列译作"…频观"者，"频"均为"随"之误，应作"…随观"。
+# 通则：凡译文形如"…定语/…状语/…宾语"等语法分析用语者(如 visaya/okāsa)，均为数据污染，应按词义翻译。
