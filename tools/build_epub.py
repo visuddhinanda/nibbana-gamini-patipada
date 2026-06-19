@@ -54,9 +54,14 @@ def build(vol, notice_path, outdir):
     parts = []
     if notice_path and os.path.exists(notice_path):
         parts.append(open(notice_path, encoding="utf-8").read().rstrip("\n"))
+    cdir = os.path.join(vol, "chinese")
     for fp in files:
+        # 在每个文件内容前加上文件名（相对 chinese/ 的路径，便于核对来源）
+        rel = os.path.relpath(fp, cdir)
+        header = f"**【文件：{rel}】**"
+        body = open(fp, encoding="utf-8").read().rstrip("\n")
         # rstrip trailing newlines so the join controls spacing exactly
-        parts.append(open(fp, encoding="utf-8").read().rstrip("\n"))
+        parts.append(f"{header}\n\n{body}")
     # BLANK LINE between every part -> leading "##" headings stay valid
     combined = "\n\n".join(parts) + "\n"
 
