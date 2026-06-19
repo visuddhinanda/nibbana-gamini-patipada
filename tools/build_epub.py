@@ -21,16 +21,16 @@ import re
 import subprocess
 import sys
 
-KEY_RE = re.compile(r"^\s*\[(\d+)\]([a-z]?)")
+# 通用: 兼容 [93]a / [186a] / [000A] / [က] / [11] 等各卷命名
+PAGE_RE = re.compile(r"\[0*(\d+)")
 
 
 def sort_key(path):
-    """Reading order: by [page] number, then optional letter suffix, then path."""
+    """Reading order: by [page] number, then by basename (letter suffix), then path."""
     base = os.path.basename(path)
-    m = KEY_RE.match(base)
+    m = PAGE_RE.search(base)
     page = int(m.group(1)) if m else 10**9
-    suf = m.group(2) if m else ""
-    return (page, suf, path)
+    return (page, base, path)
 
 
 def collect(vol):
