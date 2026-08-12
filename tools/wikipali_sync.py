@@ -218,30 +218,56 @@ def load_map(vol):
     return rows
 
 
-def blank_separated_block_lengths(text):
-    """按空行分段，返回每段的非空行数列表。"""
-    lines = text.split("\n")
-    while lines and lines[-1] == "":
-        lines.pop()
-    blocks = []
-    cur = 0
-    for line in lines:
+# markdown 表格行。整张表格无论多少行都是**一个句子**，与远端的一个占位符相对应
+# （实证：远端 [135] 的 {{3439-4-1-1}} 对应本地 12 行的表格）。
+TABLE_LINE_RE = re.compile(r"^\s*\|")
+
+
+def split_blocks(text):
+    """按空行分段，返回每段的非空行列表。"""
+    blocks, cur = [], []
+    for line in text.split("\n"):
         if line.strip() == "":
-            if cur > 0:
+            if cur:
                 blocks.append(cur)
-            cur = 0
+            cur = []
         else:
-            cur += 1
-    if cur > 0:
+            cur.append(line)
+    if cur:
         blocks.append(cur)
     return blocks
 
 
+def group_units(lines):
+    """段内成句：连续的表格行并成一个单元，其余每行一个单元。"""
+    units, table = [], []
+    for line in lines:
+        if TABLE_LINE_RE.match(line):
+            table.append(line.rstrip())
+            continue
+        if table:
+            units.append("\n".join(table))
+            table = []
+        units.append(line)
+    if table:
+        units.append("\n".join(table))
+    return units
+
+
+def blank_separated_block_lengths(text):
+    """按空行分段，返回每段的句子数列表（表格整张算一句）。"""
+    return [len(group_units(b)) for b in split_blocks(text)]
+
+
 def non_blank_lines(text):
-    lines = text.split("\n")
-    while lines and lines[-1] == "":
-        lines.pop()
-    return [ln for ln in lines if ln.strip() != ""]
+    """全文的句子单元列表（表格整张算一句），保持原顺序。
+
+    分段后再成句，避免把相邻两段各自结尾/开头的表格误并成一张。
+    """
+    units = []
+    for block in split_blocks(text):
+        units.extend(group_units(block))
+    return units
 
 
 PLACEHOLDER_RE = re.compile(r"\{\{[^}]*\}\}")
