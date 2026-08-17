@@ -94,7 +94,7 @@ te cimaṃ saddhammaṃ antaradhāpenti ——那些比库也使这教法隐没�
 
 如是，教法的隐没也确有五种。
 
-**证悟教法隐没的情形**
+### **证悟教法隐没的情形**
 
 在那五种当中，于世尊的教法里，四道(magga)、四果(phala)、四辨析(paṭisambhidā)、三明(vijjā)、六神通(abhiññā)——这些法是圣者善人们所应得、所应证的法，因此——称为「证悟(adhigama)」。
 衰退隐没之时，便从四种辨析智(paṭisambhidāñāṇa)开始，依次逐一衰退、隐没。
@@ -107,7 +107,7 @@ te cimaṃ saddhammaṃ antaradhāpenti ——那些比库也使这教法隐没�
 然而，当最后一位入流者圣者善人的寿命终尽之时，世尊所曾教诫的伟大证悟教法便算是隐没了。
 这就是——证悟隐没＝所谓证悟教法的隐没。(增支部注1、67。)
 
-**行道教法隐没的情形**
+### **行道教法隐没的情形**
 
 在教法(sāsana)的后期，由于无法努力使禅那(jhāna)、观(vipassanā)、道(magga)果(phala)诸法生起、无法努力将其修得，他们便只能守护、护持戒(sīla)的清净而已，只能如此修行，只能守护、护持四遍净戒(catupārisuddhisīla)而已。
 再者，随着时日一点点久远、再度来临之时——
@@ -125,7 +125,7 @@ te cimaṃ saddhammaṃ antaradhāpenti ——那些比库也使这教法隐没�
 在教法中，安稳地守护、护持哪怕仅仅四条巴拉基咖学处、圆满修持戒行的那最后一位比库，或是由于他的巴拉基咖戒(pārājikasīla)之毁坏，或是由于寿命的终尽＝圆寂，行道教法便隐没了。
 如是，当连一位守护四条巴拉基咖的比库都不再留存之时，行道教法便算是隐没了。(增支部注1、67-68。)
 
-**教理教法(pariyattisāsana)隐没的情形**
+### **教理教法(pariyattisāsana)隐没的情形**
 
 只要连同义注(aṭṭhakathā)在内的三藏(piṭaka)巴利(pāḷi)圣典还存续着，在那整段时期里，教理教法就算是圆满具足地住立着。
 随着时日久远，逐渐来到衰减之劫的时期时，由于国中人民、众多百姓不再持守法，雨水便不再好好地降下。
@@ -156,7 +156,7 @@ te cimaṃ saddhammaṃ antaradhāpenti ——那些比库也使这教法隐没�
 最后，统治国土的国王们——「若有人能讲诵哪怕一首佛陀所曾开示的偈颂(gāthā)，便赏赐一千银钱。」
 如是，把一千银钱的包裹放在象背石台之上，三度绕城宣告，然而由于无人前来领取那千银的包裹，到了须将它送回国王库藏之时，佛陀伟大的教理教法便彻底隐没了。(增支部注1、68-69。)
 
-**外相教法(liṅgasāsana)隐没的情形**
+### **外相教法(liṅgasāsana)隐没的情形**
 
 在伟大的教理教法隐没之后的时期，比库们披着袈裟(cīvara)的样子、持钵的样子、行走的样子、观看的样子，都不再具备令人生起净信的德相了。
 他们也只会把袈裟染成象牙般浅淡的黄色。
@@ -179,7 +179,7 @@ na tvevāhaṃ ānanda kenaci pariyāyena saṃghagatāya dakkhiṇāya pāṭip
 最后，那些败坏的比库们，甚至会把那一片袈裟也视为多此一举、毫无益处的行当而弃舍掉。
 那时，外相教法便算是隐没了。(增支部注1、69-70。)
 
-**舍利教法(dhātusāsana)隐没的情形**
+### **舍利教法(dhātusāsana)隐没的情形**
 
 伟大的舍利教法隐没的情形，应当如是了知。
 般涅槃(parinibbāna)依烦恼般涅槃(kilesaparinibbāna)、蕴般涅槃(khandhaparinibbāna)、舍利般涅槃(dhātuparinibbāna)而分为三种。
@@ -217,7 +217,7 @@ na tvevāhaṃ ānanda kenaci pariyāyena saṃghagatāya dakkhiṇāya pāṭip
 待到年岁久远，人们将耗时于寻求钱财物资，智慧日渐浅薄，不再珍重、供养舍利。
 那时，凡存在于人间、天界、龙界(nāga)、梵天界的一切舍利，都将前往大菩提座。
 
-## 舍利聚合圣像
+#### 舍利聚合圣像
 
 一切舍利将在大菩提座聚集会合，化现为世尊的圣像形貌，于菩提座上结跏趺坐。
 那舍利聚合的佛陀圣像，具足(32)种大丈夫的大相(lakkhaṇā)与(80)种小相(随好)，以一寻光明般炽盛辉耀的光环，庄严绚烂地放光。
@@ -247,7 +247,7 @@ anāgate uppajjanakaṃ buddhaṃ passituṃ labhissāma bhagavā.
 
 这便是舍利教法(dhātusāsana)隐没的情形。(增支部义注，1，70-71。)
 
-**教理教法(pariyattisāsana)的** 重要性
+### **教理教法(pariyattisāsana)的** 重要性
 
 在这样五种教法隐没之中，唯有教理教法的隐没是最为重要的，它是根本源头。
 伟大尊贵的教理教法一旦隐没，伟大的行道教法(paṭipattisāsana)也随之隐没。
@@ -422,7 +422,7 @@ evamevaṃ pariyattiyā dharamānāya sāsanaṃ antarahitaṃ nāma na hotīti.
 
 **【文件：[1]无色摄受章/[1]b 观智所观照的名法.md】**
 
-## 观智(vipassanāñāṇa)所观照的名(nāma)法
+## 一、观智(vipassanāñāṇa)所观照的名(nāma)法
 
 全知正等觉的佛陀(Buddha)亲自在《相应部(Saṃyutta)》六处篇(Saḷāyatanavagga)不遍知经(Aparijānana Sutta)的巴利圣典中开示：若不以了知遍知(ñātapariññā)、审察遍知(tīraṇapariññā)、断遍知(pahānapariññā)这三种遍知(pariññā)，一一分别、透彻地了知一切色(rūpa)法与名法，则轮回(saṃsāra)之苦(dukkha)无论以何种方法都无法穷尽——由于有此开示之故（相应部，2，249-250。），
 
@@ -1299,7 +1299,7 @@ Sarāgaṃ vā cittaṃ “sarāgaṃ cittan”ti pajānāti. (M-1-76.)
 
 **【文件：[1]无色摄受章/[31] 六、意门与心生起的物质基础.md】**
 
-#### 六、意门(manodvāra)与心生起的物质基础(hadayavatthu)
+##### 六、意门(manodvāra)与心生起的物质基础(hadayavatthu)
 
 **manodvāraṁ** nāma sāvajjanaṁ bhavaṅgaṁ. 
 tassa nissayabhāvato hadayavatthuṁ sandhāya nissitavohārena "**manodvāre**"ti vuttaṁ, yattha manodvāruppatti. (Mahāṭī, 2, 410.)
@@ -1463,7 +1463,7 @@ Cha vatthūni, cha dvārāni, cha ārammaṇāni, cha viññāṇāni, cha vīth
 
 **【文件：[1]无色摄受章/[35]c 法所缘六种.md】**
 
-#### 法所缘（dhammārammaṇa）（六）种
+##### 法所缘（dhammārammaṇa）（六）种
 
 dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññattivasena chadhā saṅgayhati.(Abhidhammatthasaṅgaha.)
 
@@ -1544,7 +1544,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[38] 五门转向审察.md】**
 
-#### 五门转向(pañcadvārāvajjana)审察
+##### 五门转向(pañcadvārāvajjana)审察
 
 以眼门(cakkhudvāra)等五门(pañcadvāra，=五个门)中显现出来的所缘为审察对象的那个转向(āvajjana)心，为了与意门转向(manodvārāvajjana，=审察在意门中显现之所缘的心)相区别，便命名为五门转向。
 并非五种所缘在全部五门中同时显现、同时被审察。
@@ -1568,7 +1568,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[39]a 应预先知悉记住.md】**
 
-#### 应预先知悉记住
+##### 应预先知悉记住
 
 一般而言，在这些心路心(vīthi citta)中，速行(javana)通常生起(7)次，彼所缘(tadārammaṇa)则生起(=2)次。
 其余的心路心则各只生起一次。
@@ -1579,7 +1579,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[39]b 所缘转起（六）种.md】**
 
-### 所缘转起（visayappavatti）（六）种
+#### 所缘转起（visayappavatti）（六）种
 
 所缘（ārammaṇa）在门（dvāra）处的显现，就称为所缘转起。
 而就“所缘在门处的显现”而言，若要确切探取，除了显现出来的所缘之外，并没有另外单独的“显现”存在；因此，依所缘转起的（六）种——
@@ -1597,7 +1597,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[40] 极大所缘.md】**
 
-#### 极大所缘(atimahantārammaṇa)
+##### 极大所缘(atimahantārammaṇa)
 
 以色所缘(rūpārammaṇa)为首的五所缘(pañcārammaṇa)＝这五种所缘(ārammaṇa)，在各自的门(dvāra)中显现时，由于这些所缘的色法(rūpa)生起极为迅速，因此在生起的当下、眼前这一刻还无法在各自的门中显现，而是要在生起之后、到达住(ṭhiti)时才能显现。
 应当记住：这一判定也只是就各自所缘在五门(pañcadvāra)中显现一事而言的说法。
@@ -1670,7 +1670,7 @@ dhammārammaṇaṃ pana pasāda-sukhumarūpa-citta-cetasika-nibbāna-paññatti
 
 **【文件：[1]无色摄受章/[42] 所谓速行.md】**
 
-#### 所谓速行(javana)
+###### 所谓速行(javana)
 
 由于以强大的势头生起，故名速行；因此，无论生起的次数少还是多，凡以强猛炽烈的势头生起的心，都称为速行心(javanacitta)。道速行(maggajavana)、神通速行(abhiññāṇajavana)虽然只生起一次，却也具有强到堪以「一次」相称的势头。
 至于有分心(bhavaṅgacitta)，虽然接连不断地多次生起，却没有这样的势头；而那些速行心的作用，正是充分而自如地领受所缘(ārammaṇa)之味。
@@ -1693,7 +1693,7 @@ maraṇakālādīsu pana pañcavārameva. (Abhidhammatthasaṅgaha.)
 
 **【文件：[1]无色摄受章/[43]a 所谓彼所缘.md】**
 
-#### 所谓彼所缘(tadārammaṇa)
+###### 所谓彼所缘(tadārammaṇa)
 
 tadetaṃ javanāvasāne bhavaṅgassa ārammaṇe pavattanārahaṃ samānaṃ tassa javanassa ārammaṇaṃ ārammaṇaṃ katvā pavattattā tadārammaṇanti vuccati.
 evaṃ ekādasannaṃ vipākaviññāṇānaṃ **tadārammaṇavasena** pavatti veditabbā. (Vs-2-90.)
@@ -1710,7 +1710,7 @@ evaṃ ekādasannaṃ vipākaviññāṇānaṃ **tadārammaṇavasena** pavatti
 
 **【文件：[1]无色摄受章/[43]b 两次——一次.md】**
 
-#### 两次——一次
+###### 两次——一次
 
 **dvikkhattuṃ sakiṃ vā**ti vacanasiliṭṭhavasena vuttaṃ “aṭṭha vā dasa vā”ti-ādīsu viya。 
 dvikkhattuṃyeva pana vaṇṇentī. (Mahāṭī, 2, 134.)
@@ -1727,7 +1727,7 @@ idaṃ dve nāmāni labhati paṭisandhicittasadisattā mūlabhavaṅganti ca, y
 
 **【文件：[1]无色摄受章/[44] 如理作意.md】**
 
-#### 如理作意（yonisomanasikāra）
+###### 如理作意（yonisomanasikāra）
 
 在该极大所缘心路（atimahantārammaṇa vīthi）中——确定心（voṭṭho）灭去之后，当速行（javana）运行时，由于色所缘（rūpārammaṇa）是欲所缘（kāmārammaṇa），故只有诸欲界速行（kāmajavana）才有运行的机会。
 广大速行（mahaggata javana）与出世间速行（lokuttara javana）则不能以欲法（kāma法）为所缘。
@@ -1755,7 +1755,7 @@ so hi aviparītamanasikāratāya “yoniso manasikāro”ti vutto, tadābhogatā
 
 **【文件：[1]无色摄受章/[45]a 不如理作意.md】**
 
-#### 不如理作意（ayonisomanasikāra）
+###### 不如理作意（ayonisomanasikāra）
 
 **ayoniso manasikāro**ti anupāyamanasikāro uppathamanasikāro, anicce ‘nicca’nti vā dukkhe ‘sukha’nti vā anattani ‘attā’ti vā asubhe ‘subha’nti vā manasikāro. (Sam-ṭṭha, 3, 177. Ma-ṭṭha, 1, 285-286.)
 
@@ -1764,7 +1764,7 @@ so hi aviparītamanasikāratāya “yoniso manasikāro”ti vutto, tadābhogatā
 
 **【文件：[1]无色摄受章/[45]b 转向.md】**
 
-#### 转向（āvajjana）
+###### 转向（āvajjana）
 
 tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
@@ -1778,7 +1778,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[46]a 三种作意.md】**
 
-#### 三种作意(manasikāra)
+###### 三种作意(manasikāra)
 
 作意有三种：引生心路(vīthi)的作意、引生速行(javana)的作意、令所缘(ārammaṇa)显现的作意。其中——
 
@@ -1793,7 +1793,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[46]b 成就轮的效能.md】**
 
-#### 诸成就轮(sampatticakka)的效能
+###### 诸成就轮(sampatticakka)的效能
 
 那如理作意(yonisomanasikāra)得以生起或不生起的一连串接续原因，即是 ----
 
@@ -1807,7 +1807,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 过去诸生中，为获得道果(magga-phala)、涅槃(nibbāna)而培育起来的、称为行(caraṇa)之优良种子与明(vijjā)之优良种子的诸波罗蜜(pāramī)法之总集，即名为**胜行(adhikāra)善业(kusala)**。
 
-以志求道果、涅槃之心而培育起来的布施(dāna)修行、持戒(sīla)修行、定(samādhi)修行，便是行的优良种子。 
+以志求道果、涅槃之心而培育起来的布施(dāna)修行、持戒(sīla)修行、定(samādhi)修行，便是行的优良种子。
 那些行的优良种子，能将人送达、令其得以值遇能宣说开示与被称为趣向涅槃之善人法的四圣谛相关之法语的、以佛陀(Buddha)为首的诸圣者(ariya)善士的处所。
 
 曾把色(rūpa)法、名(nāma)法碾研至智见抵达究竟法(paramattha)——即所谓的名色限定智(nāmarūpapariccheda-ñāṇa)，
@@ -1826,7 +1826,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 由于那胜行善业将他抛送、使之到达以佛陀为首的贤善圣者所居住的地方，于是便具足了**paṭirūpadesavāsa 成就轮**（住于适宜之地）。
 
 再者，那具有 paṭirūpadesavāsa 成就轮者，又会因亲近、依止好母亲、好父亲、好亲族、好家族、好老师、好善友这些善士，而重又具足了**sappurisūpanissaya 成就轮**（依止善士）。 
-具足那 sappurisūpanissaya 成就轮者，又会因得以听闻与四圣谛相关的善人法，而具足了**听闻正法(saddhammassavana)轮**。 
+具足那 sappurisūpanissaya 成就轮者，又会因得以听闻与四圣谛相关的善人法，而具足了**听闻正法(saddhammassavana)轮**。
 那听闻正法成就轮已明显具足者，便能因守护、调御自己的身与自己的心(citta)，而具足**attasammāpaṇidhi 成就轮**（正确安置自身）。
 
 在这切实具足 attasammāpaṇidhi 轮者的相续(santāna)之中，于所遇的每一个所缘(ārammaṇa)上，都会频频生起**如理作意**；那位善士，无论对自己的身，还是对自己的心 ----
@@ -1844,7 +1844,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[48]a 心生起的方式.md】**
 
-#### 心(citta)生起的方式
+###### 心(citta)生起的方式
 
 上面所示的这些心,既不是为了在有机缘时便能从适当处生起而聚集停留在身体内部,外部也没有任何人能把它们聚集收藏在某个地方。
 唯有当依处(vatthu)、所缘(ārammaṇa)、作意(manasikāra)等相关的因缘诸法会合之时,它们才骤然生起。
@@ -1856,7 +1856,7 @@ tadābhogatāya āvajjanāpi taggatikāva. (Ma-ṭī, 1, 381.)
 
 **【文件：[1]无色摄受章/[48]b 大所缘心路.md】**
 
-#### 大所缘(mahantārammaṇa)心路(vīthi)
+##### 大所缘(mahantārammaṇa)心路(vīthi)
 
 色所缘(rūpārammaṇa)在生起之后，还不能在眼门(cakkhudvāra)、意门(manodvāra)中显现，就已经过了大约两个、大约三个心剎那(cittakkhaṇa)。
 若是过了大约两个、大约三个心剎那之后才显现，那个色所缘便无法在住(ṭhiti)时维持存续以至于成为彼所缘(tadārammaṇa)，在尚未成为彼所缘之前，其（17）个心剎那的寿限便已届满，因而消逝、灭尽。
@@ -1882,7 +1882,7 @@ Ayaṃ tatiyo moghavāro. (Abhi-ṭṭha-1-310.)
 
 **【文件：[1]无色摄受章/[49]a 小所缘心路.md】**
 
-#### 小所缘(parittārammaṇa)心路(vīthi)
+##### 小所缘(parittārammaṇa)心路(vīthi)
 
 色所缘(rūpārammaṇa)由于具有软弱、羸弱(dubbala)的自性，生起(uppāda)之后虽已到达住时(ṭhī)，却仍不能立即在眼门(cakkhudvāra)、意门(manodvāra)中显现，而要等到经过四、五、六、七个心刹那(cittakkhaṇa)等之后，才能在那些门中显现出来。
 像这样的色所缘，不仅无法在住位中维持到成为彼所缘(tadārammaṇa)，就连维持到速行(javana)生起也做不到。
@@ -1900,7 +1900,7 @@ tattha javanampi anuppajjitvā dvittikkhattum voṭṭhabbanameva pavattati, tat
 
 **【文件：[1]无色摄受章/[49]b 第二无效之节.md】**
 
-#### 第二无效之节（dutiya moghavāra）
+###### 第二无效之节（dutiya moghavāra）
 
 sace pana bhavaṅgaṃ āvaṭṭeti, kiriyamanodhātuyā bhavaṅge āvaṭṭite voṭṭhabbanaṃ apāpetvāva antarā cakkhuviññāṇe vā sampaṭicchane vā santīraṇe vā nivattissatīti netaṃ ṭhānaṃ vijjati।
 voṭṭhabbanavasena pana ṭhatvā ekaṃ vā dve vā cittāni pavattanti।
@@ -1925,7 +1925,7 @@ ayampi dutiyo moghavāro। (Abhi-ṭṭha, 1, 309-310।)
 
 **【文件：[1]无色摄受章/[50]a 根本复注与再复注的说法.md】**
 
-#### 根本复注(Mūlaṭīkā)与再复注(anuṭīkā)的说法
+###### 根本复注(Mūlaṭīkā)与再复注(anuṭīkā)的说法
 
 『āsevanaṃ labhitvā』——若〔有人〕理解为：在确定(vuṭṭho)发生两次之处，后一个确定受前一个确定以重复缘(āsevana)所作的助益；又〔理解为〕这两次确定即安立于速行(javana)之处——那么，由于在《众缘》巴利圣典(Paṭṭhāna)中并无这样的教说，故这一说法应经审察后方可接受；根本复注的尊者在(Mūlaṭī,1,129-130)中如此审察并陈述。至于再复注的尊者，则如此解说。
 
@@ -1935,7 +1935,7 @@ javanaṭṭhāne ṭhatvāti javanassa uppajjanaṭṭhāne dvikkhattuṃ pavat
 
 **【文件：[1]无色摄受章/[50]b 有分断.md】**
 
-#### 有分断（bhavaṅgupaccheda）
+###### 有分断（bhavaṅgupaccheda）
 
 tato dvikkhattuṃ bhavaṅge calite bhavaṅgasotaṃ vocchinditvā tameva rūpārammaṇaṃ āvajjantaṃ pañcadvārāvajjanacittaṃ uppajjitvā nirujjhati. (Abhidhammatthasaṅgaha.)
 
@@ -1952,7 +1952,7 @@ tato dvikkhattuṃ bhavaṅge calite bhavaṅgasotaṃ vocchinditvā tameva rūp
 
 **【文件：[1]无色摄受章/[51] 见仅是见.md】**
 
-#### 见仅是见（diṭṭhe diṭṭhamattaṁ）
+###### 见仅是见（diṭṭhe diṭṭhamattaṁ）
 
 上面已经陈述过的 ---- 「当唯作意界（kiriyāmanodhātu）令有分（bhavaṅga）转动之后 = 令〔有分〕止住之后，[心路]不曾到达那把所缘确定为可喜（iṭṭha）、不可喜（aniṭṭha）等的确定（voṭṭhabbana）心，唯有如此——于被称为五门转向（pañcadvārāvajjana）的唯作意界与确定之间，无论是于眼识（cakkhuviññāṇa），无论是于领受（sampaṭicchana），无论是于推度（santīraṇa），心路心（vīthicitta）之相续会停顿下来而退没 = 会落入有分——这样的道理是绝不存在的。」（Abhi-ṭṭha, 1, 309-310。）---- 这样的说法，对于想要修习「见仅是见（diṭṭhe diṭṭhamattaṁ）」这一行道的、诸位尊贵的瑜伽行者（yogāvacara）而言，也正是一句应当特别铭记于心的话语。
 
@@ -1971,7 +1971,7 @@ ekantena pana cakkhuviññāṇameva dassanakiccaṃ sādheti. (Abhi-ṭṭha, 1
 
 **【文件：[1]无色摄受章/[52]a 极小所缘心路.md】**
 
-#### 极小所缘(atiparittārammaṇa)心路(vīthi)
+##### 极小所缘(atiparittārammaṇa)心路(vīthi)
 
 色所缘(rūpārammaṇa)虽然在生起(uppāda)之后到达住(ṭhiti)之时，却不仅无法维持[存续]直到成为彼所缘(tadārammaṇa)、速行(javana)，甚至连维持到成为出起(vuṭṭho)——[即]在住的当下住立存续——也不能；[这样的色所缘]虽然迎面落入眼门(cakkhudvāra)、意门(manodvāra)之中，却在名为唯作意界(kiriyamanodhātu)的五门转向(pañcadvārāvajjana)心尚未能令有分(bhavaṅga)之流、有分之相续转动、尚未能令[它]止住之前，便已在内里就消逝、灭尽而去；由于所缘(ārammaṇa)极其软弱，直到临近灭尽时才显现，故若从显现之时起算，其心剎那(cittakkhaṇa)寿限极其稀少的色所缘，就称为**极小所缘**。
 在这个极小所缘心路中，只有有分波动(bhavaṅgacalana)在波动而已，心路心的生起(vīthicittuppāda)已不复存在。
@@ -2020,7 +2020,7 @@ ekantena pana cakkhuviññāṇameva dassanakiccaṃ sādheti. (Abhi-ṭṭha, 1
 
 **【文件：[1]无色摄受章/[53]b 《清净道论》义注开显——观照非色转生之相.md】**
 
-#### 《清净道论(Visuddhimagga)》义注(aṭṭhakathā)开显 —— 观照非色转生之相(arūpanibbattipassanākāra)
+### 《清净道论(Visuddhimagga)》义注(aṭṭhakathā)开显 —— 观照非色转生之相(arūpanibbattipassanākāra)
 
 yathā ca rūpaṃ sammasantena rūpassa, evaṃ arūpaṃ sammasantenapi arūpassa nibbatti passitabbā.
 sā ca kho ekāsīti lokiyacittuppādavaseneva.
@@ -2109,7 +2109,7 @@ evaṃ chasu dvāresu **arūpassa nibbatti** passitabbā. (Visuddhi-2-252, 253.)
 
 **【文件：[1]无色摄受章/[56] 速行与所缘.md】**
 
-#### 速行(javana)与所缘(ārammaṇa)
+### 速行(javana)与所缘(ārammaṇa)
 
 [**javanārammaṇānurūpa**nti "tihetukaṃ ce javanaṃ, tihetukaṃ, dvihetukaṃ vā"ti ādinā "iṭṭhaṃ ce ārammaṇaṃ, somanassasahagata"nti ādinā ca javanassa, ārammaṇassa ca anurūpaṃ. (Mahāṭī,2,405。)
 
@@ -2139,7 +2139,7 @@ evaṃ chasu dvāresu **arūpassa nibbatti** passitabbā. (Visuddhi-2-252, 253.)
 
 **【文件：[1]无色摄受章/[57] 根遍知.md】**
 
-#### 根遍知（mūlapariññā）
+### 根遍知（mūlapariññā）
 
 mūlapariññāvasena tāva ----
 
@@ -2195,7 +2195,7 @@ evaṃ manodvārajavanassa mūlavasena mūlapariññā vuttā. (Ma-ṭī-1-360.)
 
 **【文件：[1]无色摄受章/[59] 另一种解说方式.md】**
 
-#### 另一种解说方式
+### 另一种解说方式
 
 Ettha hi cakkhu ceva rūpañca rūpakkhandho, dassanaṃ viññāṇakkhandho, taṃsampayuttā vedanā vedanākkhandho, saññā saññākkhandho, phassādikā saṅkhārakkhandho.
 Evametesaṃ pañcannaṃ khandhānaṃ samavāye ālokanavilokanaṃ paññāyati.
@@ -2247,7 +2247,7 @@ Tattha ko eko āloketi, ko viloketi. (M-A-1-267-268；Dī-A-1-175；Sam-A-3-227�
 
 **【文件：[1]无色摄受章/[61] 极为艰难的工作.md】**
 
-#### 极为艰难的工作
+### 极为艰难的工作
 
 依循心之定律(cittaniyama)的轨道而生起的心(citta)＋心所(cetasika)＝名法(nāma)诸法，要以智(ñāṇa)把名密集(nāmaghana)所称的名之团块、名之硬块破碎瓦解、加以摧毁，使智见抵达究竟法(paramattha)——这样地摄持修观，并不是一件容易的工作。
 然而，声闻弟子(sāvaka)们通过摄持修观，是能够做到的。
@@ -3584,7 +3584,7 @@ appanaṃ upecca carantīti **upacārāni.** (Mahāṭī, 1, 161.)
 
 **【文件：[1]无色摄受章/[92]摄受名法的方式篇/[103]b 意门转向 - 名法（12）个.md】**
 
-### 意门转向（manodvārāvajjana）- 名法（nāma-dhamma）（12）个
+#### 意门转向（manodvārāvajjana）- 名法（nāma-dhamma）（12）个
 
 在意门转向中，所谓名法（12）个，是指——心（citta）、触（phassa）、受（vedanā）、想（saññā）、思（cetanā）、一境性（ekaggatā）、命（jīvita）、作意（manasikāra）、寻（vitakka）、伺（vicāra）、胜解（adhimokkha）、精进（viriya）。
 而这一整组名法全体，在本篇中也都正是以极为清澈明亮的入出息似相（ānāpānapaṭibhāga nimitta）为所缘的。
@@ -3768,7 +3768,7 @@ evaṃ chasu dvāresu **arūpassa nibbatti** passitabbā. (Visuddhi, 2, 253.) �
 
 **【文件：[1]无色摄受章/[109]首先应摄受的欲界名法/[109]首先应摄受的欲界名.md】**
 
-## 首先应摄受的欲界(kāmāvacara)名法(nāma)
+### 首先应摄受的欲界(kāmāvacara)名法(nāma)
 
 Tasmā taṁ rūpaṁ ārammaṇaṁ katvā uppannaṁ vedanaṁ, saññaṁ, saṅkhāre, viññāṇañca "idaṁ arūpa"nti paricchinditvā aniccādito passati. (Abhi-ṭṭha-1-271. Visuddhi-2-300.)
 
@@ -4020,7 +4020,7 @@ Yathā yathā hissa rūpaṃ suvikkhālitaṃ hoti nijjaṭaṃ suparisuddhaṃ,
 
 **【文件：[1]无色摄受章/[109]首先应摄受的欲界名法/[118]a 铜镜譬喻.md】**
 
-### 铜镜譬喻
+#### 铜镜譬喻
 
 将予以说明——有一位视力健全的男子，在不洁不净的铜镜表面观看自己本来面容的映影，若面容的映影没有显现出来，那男子也不应因「面容的映影显现不出来啊」便舍弃这面铜镜。
 其实，他应当把那面铜镜反复擦拭。
@@ -4028,7 +4028,7 @@ Yathā yathā hissa rūpaṃ suvikkhālitaṃ hoti nijjaṭaṃ suparisuddhaṃ,
 
 **【文件：[1]无色摄受章/[109]首先应摄受的欲界名法/[118]b 榨油的譬喻.md】**
 
-### 榨油的譬喻
+#### 榨油的譬喻
 
 想要得到油的男子，把芝麻粉放进油磨（即榨油磨）里，用热水浇洒，仅仅挤压一两次，油若还没有出来，他也不会舍弃那芝麻粉。
 其实，他应当把那芝麻粉一次又一次地用热水浇洒，反复揉搓、揉搓，再挤压取油。
@@ -4036,7 +4036,7 @@ Yathā yathā hissa rūpaṃ suvikkhālitaṃ hoti nijjaṭaṃ suparisuddhaṃ,
 
 **【文件：[1]无色摄受章/[109]首先应摄受的欲界名法/[118]c 净水子的譬喻.md】**
 
-### 净水子的譬喻
+#### 净水子的譬喻
 
 另一种譬喻是这样——想要把水澄清的人，手持净水子，把手伸进水瓮里，仅用净水子在瓮上擦磨一两次，水若还没有变清，他也不会立刻舍弃净水子；实际上，他应当把那净水子一次又一次地反复揉磨。
 那人这样做之后，轻细漂浮的淤泥便沉下去、沉淀下来，水就变清了，尤其变得洁净澄澈。
@@ -4053,7 +4053,7 @@ Yathā yathā hissa rūpaṃ suvikkhālitaṃ hoti nijjaṭaṃ suparisuddhaṃ,
 
 **【文件：[1]无色摄受章/[109]首先应摄受的欲界名法/[119] 逐级作业步骤.md】**
 
-### 逐级作业步骤
+#### 逐级作业步骤
 
 - 1. 重新把安般念定(ānāpānassati samādhi)修到第四禅那(jhāna)为止，再次确立定(samādhi)。
 从该禅那出定后 ----
@@ -4182,7 +4182,7 @@ So sabbepi te arūpadhamme **namanalakkhaṇena** ekato katvā "etaṃ **nāma**
 
 **【文件：[1]无色摄受章/[109]首先应摄受的欲界名法/[124]a 领会.md】**
 
-### 为了领会
+#### 为了领会
 
 在此，把眼明净界（cakkhu pasāda dhātu）——
 
@@ -4197,7 +4197,7 @@ So sabbepi te arūpadhamme **namanalakkhaṇena** ekato katvā "etaṃ **nāma**
 
 **【文件：[1]无色摄受章/[109]首先应摄受的欲界名法/[124]b 以相同方式观照的真实色.md】**
 
-### 应以相同方式观照的诸真实色（rūpa）
+#### 应以相同方式观照的诸真实色（rūpa）
 
 - 1、耳明净界（sota pasāda dhātu）
 - 2、鼻明净界（ghāna pasāda dhātu）
@@ -4469,7 +4469,7 @@ Yathāvuttānusārena, yathāsambhavamuddise.
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[133] 三因-殊胜善.md】**
 
-### 三因-殊胜善（tihetuka-ukkaṭṭha kusala）
+#### 三因-殊胜善（tihetuka-ukkaṭṭha kusala）
 
 在造作善业时，与深信业（kamma）及业的果报法的信（saddhā）法相应的、通晓业及业的果报法的、以业自性正见智（kammassakatā sammādiṭṭhi ñāṇa）为主导的这一类善；再者，假如行善者由于已是以智见把色（rūpa）-名（nāma）-因-果＝行（saṅkhāra）法诸法抵达究竟法（paramattha）者，因而在培育布施（dāna）、持戒（sīla）、修习（bhāvanā）等善业种子时，把施者、受施者、所施之物等有情、无情的色名诸法收摄直至抵达究竟法、以智加以辨别、把那些色名究竟法逐一提到三种相之上、能够修观（vipassanā）审察，因而有无常随观智（aniccānupassanā ñāṇa）、苦随观智（dukkhānupassanā ñāṇa）、无我随观智（anattānupassanā ñāṇa）等诸观智参与、围绕着的布施、持戒、修习等这一类善；由于都与作为一切善之基础、根由、根源的、即无贪（alobha）、无瞋（adosa）、无痴（amoha）这(3)种因（hetu）法相应，便成为三因善。
 智相应大善（ñāṇasampayutta mahākusala）的诸观速行（javana），才是真正的三因善之类。
@@ -4488,7 +4488,7 @@ Yathāvuttānusārena, yathāsambhavamuddise.
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[134] 观速行诸思也能给予结生果报的情形.md】**
 
-### 观(vipassanā)速行(javana)诸思(cetanā)也能给予结生(paṭisandhi)果报的情形
+#### 观(vipassanā)速行(javana)诸思(cetanā)也能给予结生(paṭisandhi)果报的情形
 
 No ce bhikkhave ceteti, no ce pakappeti, atha ce anuseti. 
 Ārammaṇametaṃ hoti viññāṇassa ṭhitiyā, ārammaṇe sati patiṭṭhā viññāṇassa hoti, tasmiṃ patiṭṭhite viññāṇe virūḷhe āyatiṃ punabbhavābhinibbatti hoti, āyatiṃ punabbhavābhinibbattiyā sati āyatiṃ jāti jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. 
@@ -4573,13 +4573,13 @@ a
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[137]a 三因劣善.md】**
 
-### 三因劣善（tihetuka omaka kusala）
+#### 三因劣善（tihetuka omaka kusala）
 
 即便是在培育这种三因(tihetuka)善的种子之际，无论是在造善(kusala)之前，还是在即将造作、极为临近之时，抑或是在造作完毕之后，只要有贪(lobha)、瞋(dosa)、慢(māna)、嫉(issā)、悭(macchariya)等恶劣的不善(akusala)围绕着该善，那么这三因善本身也会沦为下劣者，因此便获得了「三因劣(tihetuka omaka)」这一名称。
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[137]b 二因殊胜善.md】**
 
-### 二因殊胜善（dvihetuka ukkaṭṭha kusala）
+#### 二因殊胜善（dvihetuka ukkaṭṭha kusala）
 
 在培育善业时，如同孩童们所做的那样，若不具备通晓业（kamma）及业的果报的智（ñāṇa），只与无贪（alobha）、无瞋（adosa）两种因（hetu）相应，而不与无痴（amoha）因相应，因此这一类善便成为二因善。
 若在该善的前后有众多善围绕，便成为上等的二因殊胜善。
@@ -4587,7 +4587,7 @@ a
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[138] 二因劣善.md】**
 
-### 二因劣善（dvihetuka omaka kusala）
+#### 二因劣善（dvihetuka omaka kusala）
 
 在培育这种二因善的时候，如果在该善的前后有众多不善（akusala）环绕，那么这种二因善便会转为低劣的状态，因而获得「二因劣」这个名称。
 
@@ -4628,14 +4628,14 @@ a
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[139]a 希望牢记的用意.md】**
 
-### 希望牢记的用意
+#### 希望牢记的用意
 
 以人类为主要对象、来阐明上述善业(kusala kamma)以及业的果报法的用意在于：在观照因果关联的缘起(paṭiccasamuppāda)部分时，想让人了知业与业的果报法，这是一个原因；而在此名业处(nāmakammaṭṭhāna)部分中，于速行(javana)之后摄取彼所缘(tadārammaṇa)时，想让人能够准确无误地摄取那些彼所缘，这也是一个原因。
 包含在那业的果报法部分之中的推度心(santīraṇa citta)与大果报心(mahāvipāka citta)，正是能够执行彼所缘之事的那些心的种类。（详情——请在《阿毗达摩》义注(aṭṭhakathā)一、307-327——等处参看。）
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[139]b 所缘与果报的确定方式.md】**
 
-### 所缘与果报的确定方式
+#### 所缘与果报的确定方式
 
 Sabbathāpi panettha aniṭṭhe ārammaṇe akusalavipākāneva pañcaviññāṇa-sampaṭicchana-santīraṇa-tadārammaṇāni, iṭṭhe kusalavipākāni, atiiṭṭhe pana somanassasahagatāneva santīraṇatadārammaṇāni. (Abhidhammatthasaṅgaha.)
 
@@ -4655,7 +4655,7 @@ Sabbathāpi panettha aniṭṭhe ārammaṇe akusalavipākāneva pañcaviññā�
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[140]a 速行与彼所缘的判定方式.md】**
 
-### 速行与彼所缘的判定方式
+#### 速行与彼所缘的判定方式
 
 yaṃ pana **"javanena tadārammaṇaṃ niyametabba**"nti vuttaṃ. 
 taṃ kusalaṃ sandhāya vuttanti veditabbaṃ. (Abhi-ṭṭha-1-317.)
@@ -4720,7 +4720,7 @@ kusalavipākā vā akusalavipākā vā upekkhāsahagatāhetukamanoviññāṇadh
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[141]b 2. 有益正知（钵）.md】**
 
-### 2. 有益正知（sappāyasampajañña）（钵）
+#### 2. 有益正知（sappāyasampajañña）（钵）
 
 再者，对于身体消瘦、体力衰弱的比库（bhikkhu）而言，沉重的钵（patta）并非有益（sappāya）。
 无论对哪位比库而言，由于钵破裂，便从那破裂的陶钵边缘起用绳子加以捆扎缝合，捆了四五处＝打了四五道结，缝扎完毕之后洗涤时难以洗净的钵，也确实并非有益。
@@ -4734,7 +4734,7 @@ kusalavipākā vā akusalavipākā vā upekkhāsahagatāhetukamanoviññāṇadh
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[143]a 究竟意灯——雷迪大长老的见解.md】**
 
-### 《究竟意灯》(Paramatthadīpanī)——雷迪(Ledi)大长老的见解
+#### 《究竟意灯》(Paramatthadīpanī)——雷迪(Ledi)大长老的见解
 
 Yadā hi kusalajavanānaṃ antarantarā akusalaṃ javati, tadā kusalāvasāne āciṇṇasadisameva akusalāvasāne sahetukaṃ tadārammaṇaṃ yuttaṃ.
 Yadā nirantaraṃ akusalameva, tadā ahetukaṃ. (Abhi-ṭṭha-1-326-327.)
@@ -4757,7 +4757,7 @@ Yadā nirantaraṃ akusalameva, tadā ahetukaṃ. (Abhi-ṭṭha-1-326-327.)
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[143]b 好所缘时——疑与掉举痴根速行之后的彼所缘1.md】**
 
-### 好所缘(iṭṭhārammaṇa)时——疑(vicikicchā)与掉举(uddhacca)痴根速行之后的彼所缘(tadārammaṇa)
+#### 好所缘(iṭṭhārammaṇa)时——疑(vicikicchā)与掉举(uddhacca)痴根速行之后的彼所缘(tadārammaṇa)
 
 Iṭṭhārammaṇe pana kaṅkhato, uddhatassa ca tadārammaṇaṃ kiṃ hotīti.
 Iṭṭhārammaṇasmiṃ kaṅkhatu vā mā vā, uddhato vā hotu mā vā.
@@ -4775,7 +4775,7 @@ Iṭṭhamajjhattārammaṇe kusalavipākāhetukaupekkhāsahagatanti. (Abhi-ṭ�
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[144] 决定成为善或不善的法.md】**
 
-### 决定成为善(kusala)或成为不善(akusala)的法
+#### 决定成为善(kusala)或成为不善(akusala)的法
 
 Idaṃ pana javanaṃ kusalatthāya vā akusalatthāya vā ko niyāmetīti? Āvajjanañceva votthabbanañca.
 Āvajjanena hi yoniso āvaṭṭite votthabbanena yoniso vavatthāpite javanaṃ akusalaṃ bhavissatīti aṭṭhānametaṃ.
@@ -4794,7 +4794,7 @@ Ubhayena pana yoniso āvaṭṭite, vavatthāpite ca javanaṃ kusalaṃ hoti, a
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[145]a 三因-二因-无因.md】**
 
-### 三因(tihetuka) - 二因(dvihetuka) - 无因(ahetuka)
+#### 三因(tihetuka) - 二因(dvihetuka) - 无因(ahetuka)
 
 tihetukajavanāvasāne panettha tihetukaṃ tadārammaṇaṃ yuttaṃ, duhetukajavanāvasāne duhetukaṃ, ahetukajavanāvasāne ahetukaṃ, bhājetvā pana na vuttaṃ. (Abhi-ṭṭha-1-327.)
 
@@ -4806,7 +4806,7 @@ tihetukajavanāvasāne panettha tihetukaṃ tadārammaṇaṃ yuttaṃ, duhetuka
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[145]b 只需当作一般情形来记取.md】**
 
-### 只需当作一般情形来记取
+#### 只需当作一般情形来记取
 
 根据上面所述的、关于彼所缘(tadārammaṇa)的诸解释，若把彼所缘的情形综合起来加以考察，一般而言，推度(santīraṇa)、速行(javana)、彼所缘这三者在受(vedanā)上是彼此相同的。
 
@@ -4820,7 +4820,7 @@ tihetukajavanāvasāne panettha tihetukaṃ tadārammaṇaṃ yuttaṃ, duhetuka
 
 **【文件：[1]无色摄受章/[125]关于彼所缘的应知事项/[145]c 缘取广大出世间法为所缘的欲界法之后彼所缘不下落.md】**
 
-### 缘取广大(mahaggata)、出世间(lokuttara)法为所缘的欲界(kāmāvacara)法之后彼所缘(tadārammaṇa)不下落的原因
+#### 缘取广大(mahaggata)、出世间(lokuttara)法为所缘的欲界(kāmāvacara)法之后彼所缘(tadārammaṇa)不下落的原因
 
 yasmā c'assa "sabbo kāmāvacaravipāko, kiriyamanodhātu kiriya-ahetukamanoviññāṇadhātu somanassasahagatā ime dhammā parittārammaṇā"ti evaṃ accantaparittam eva ārammaṇaṃ vuttaṃ.
 tasmā p'etaṃ mahaggatalokuttarārammaṇe kāmāvacaradhammepi nānubandhatīti veditabbaṃ. (Abhi-ṭ-2-147.)
@@ -4910,12 +4910,10 @@ tasmā p'etaṃ mahaggatalokuttarārammaṇe kāmāvacaradhammepi nānubandhatī
 
 **色所缘(=颜色)线 - 善好组表**
 
-<table cellspacing="0"><tbody><tr><td colspan="7" style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:821px"><p style="text-align:center">眼门心路</p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:167px"><p style="text-align:justify">&nbsp;</p></td><td colspan="4" style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:465px"><p style="text-align:center"><span><span><span ><span>意门心路</span></span></span></span></p></td></tr><tr><td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>色(rūpa) </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;心所依处(hadaya) </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>眼(cakkhu) </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:167px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:1px solid black; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>心所依处 </span></span><span ><span>&middot;</span></span><span ><span>&nbsp;54</span></span></span></span></p></td></tr><tr><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>五门转向</span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>眼识 </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>领受 </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>推度 </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>确定 </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>速行 (7) </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>彼所缘 (2) </span></span></span></span></p></td><td colspan="2" style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:167px"><p style="text-align:justify"><span><span><span ><span>&nbsp;有分(bhavaṅga) </span></span></span></span></p></td><td colspan="2" style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>意门转向 </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>速行 (7) </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>彼所缘 (2)</span></span></span></span></p><p style="text-align:justify">&nbsp;</p></td></tr><tr><td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>省察 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>见知</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>接受</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>&nbsp;审察 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>&nbsp;决断 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>速行 (7) </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>彼所缘 (2) </span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:167px"><p style="text-align:justify"><span><span><span ><span>有分 </span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>省察·决断 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>速行 (7) </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>彼所缘 (2)</span></span></span></span></p><p style="text-align:justify">&nbsp;</p></td></tr><tr><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>1. 作为「色所缘」 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify">&nbsp;</p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify">&nbsp;</p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify">&nbsp;</p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>作为「色所缘」 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify">&nbsp;</p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify">&nbsp;</p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:167px"><p style="text-align:justify">&nbsp;</p></td><td colspan="2" style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>作为「色所缘」</span></span></span></span></p><p style="text-align:justify">&nbsp;</p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify">&nbsp;</p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify">&nbsp;</p></td></tr><tr><td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>8</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>11 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>&nbsp;12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>&nbsp;34</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>34</span></span><span ><span>/</span></span><span ><span>12</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:167px"><p style="text-align:justify"><span><span><span ><span>&nbsp;34</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>34 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>34</span></span><span ><span>/</span></span><span ><span>12</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p><p style="text-align:justify">&nbsp;</p></td></tr><tr><td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>8</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>&nbsp;11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>33 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>&nbsp;33</span></span><span ><span>/</span></span><span ><span>11</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:167px"><p style="text-align:justify"><span><span><span ><span>34</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>&nbsp;12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>33 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>33</span></span><span ><span>/</span></span><span ><span>11</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p></td></tr><tr><td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>&nbsp;8 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>33</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>33</span></span><span ><span>/</span></span><span ><span>12</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:167px"><p style="text-align:justify"><span><span><span ><span>&nbsp;34</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>33 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>33</span></span><span ><span>/</span></span><span ><span>12</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p><p style="text-align:justify">&nbsp;</p></td></tr><tr><td style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:148px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>8</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>11</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>12</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>32 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:112px"><p style="text-align:justify"><span><span><span ><span>32</span></span><span ><span>/</span></span><span ><span>11</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:167px"><p style="text-align:justify"><span><span><span ><span>&nbsp;34</span></span></span></span></p></td><td colspan="2" style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:172px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>&nbsp;32 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>&nbsp;32</span></span><span ><span>/</span></span><span ><span>11</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p></td></tr><tr><td colspan="8" rowspan="5" style="border-bottom:1px solid black; border-left:1px solid black; border-right:1px solid black; border-top:none; vertical-align:top; width:934px"><p style="text-align:justify">&nbsp;</p><p style="text-align:justify">&nbsp;</p><p style="text-align:justify">&nbsp;</p><p style="text-align:justify">&nbsp;</p><p style="text-align:justify">&nbsp;</p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:53px"><p style="text-align:justify"><span><span><span ><span>2. </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><p style="text-align:justify"><span><span><span ><span>作为「色法」(rūpadhamma) - </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:46px"><p style="text-align:justify"><span><span><span ><span>12 </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>34 (33-33-32)</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>34 (33-33-32)</span></span></span></span></p><p style="text-align:justify"><span><span><span ><span>12</span></span><span ><span>/</span></span><span ><span>11</span></span></span></span></p><p style="text-align:justify">&nbsp;</p></td></tr><tr><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:53px"><p style="text-align:justify"><span><span><span ><span>3.</span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><p style="text-align:justify"><span><span><span ><span>作为「无常」(anicca) - </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:46px"><p style="text-align:justify"><span><span><span ><span>12</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td></tr><tr><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:53px"><p style="text-align:justify"><span><span><span ><span>4.</span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><p style="text-align:justify"><span><span><span ><span>作为「苦」(dukkha) -</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:46px"><p style="text-align:justify"><span><span><span ><span>12</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td></tr><tr><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:53px"><p style="text-align:justify"><span><span><span ><span>5.</span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><p style="text-align:justify"><span><span><span ><span>作为「无我」(anatta) - </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:46px"><p style="text-align:justify"><span><span><span ><span>12</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td></tr><tr><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:53px"><p style="text-align:justify"><span><span><span ><span>6. </span></span></span></span></p></td><td style="background-color:#f1f1f1; border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:126px"><p style="text-align:justify"><span><span><span ><span>作为「不净」(asubha) - </span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:46px"><p style="text-align:justify"><span><span><span ><span>12</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:139px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td><td style="border-bottom:1px solid black; border-left:none; border-right:1px solid black; border-top:none; vertical-align:top; width:153px"><p style="text-align:justify"><span><span><span ><span>〃</span></span></span></span></p></td></tr></tbody></table>
-
+<table><tbody><tr><td colspan="7" style="background-color: wheat;"><p style="text-align:center">眼门心路</p></td><td colspan="2"><p>&nbsp;</p></td><td colspan="4" style="background-color: wheat;"><p style="text-align:center">意门心路</p></td></tr><tr><td>色(rūpa)&middot;心所依处(hadaya)&middot;54</td><td>眼(cakkhu)&middot;54</td><td>心所依处&middot;54</td><td>心所依处&middot;54</td><td>心所依处&middot;54</td><td>心所依处&middot;54</td><td>心所依处&middot;54</td><td colspan="2">心所依处&middot;54</td><td colspan="2">心所依处&middot;54</td><td>心所依处&middot;54</td><td>心所依处&middot;54</td></tr><tr><td style="background-color: wheat;">五门转向</td><td style="background-color: wheat;">眼识</td><td style="background-color: wheat;">领受</td><td style="background-color: wheat;">推度</td><td style="background-color: wheat;">确定</td><td style="background-color: wheat;">速行 (7)</td><td style="background-color: wheat;">彼所缘 (2)</td><td colspan="2" style="background-color: wheat;">有分(bhavaṅga)</td><td colspan="2" style="background-color: wheat;">意门转向</td><td style="background-color: wheat;">速行 (7)</td><td style="background-color: wheat;">彼所缘 (2)</td></tr><tr><td>省察</td><td>见知</td><td>接受</td><td>审察</td><td>决断</td><td>速行 (7)</td><td>彼所缘 (2)</td><td colspan="2">有分</td><td colspan="2">省察&middot;决断</td><td>速行 (7)</td><td>彼所缘 (2)</td></tr><tr><td>1. 作为「色所缘」</td><td></td><td></td><td></td><td style="background-color: wheat;">作为「色所缘」</td><td></td><td></td><td colspan="2"></td><td colspan="2" style="background-color: wheat;">作为「色所缘」</td><td></td><td></td></tr><tr><td>11</td><td>8</td><td>11</td><td>12</td><td>12</td><td>34</td><td>34/12/11</td><td colspan="2">34</td><td colspan="2">12</td><td>34</td><td>34/12/11</td></tr><tr><td>11</td><td>8</td><td>11</td><td>11</td><td>12</td><td>33</td><td>33/11/11</td><td colspan="2">34</td><td colspan="2">12</td><td>33</td><td>33/11/11</td></tr><tr><td>11</td><td>8</td><td>11</td><td>12</td><td>12</td><td>33</td><td>33/12/11</td><td colspan="2">34</td><td colspan="2">12</td><td>33</td><td>33/12/11</td></tr><tr><td>11</td><td>8</td><td>11</td><td>11</td><td>12</td><td>32</td><td>32/11/11</td><td colspan="2">34</td><td colspan="2">12</td><td>32</td><td>32/11/11</td></tr><tr><td colspan="8" rowspan="5"></td><td style="background-color: wheat;">2.</td><td style="background-color: wheat;">作为「色法」(rūpadhamma) -</td><td>12</td><td>34 (33-33-32)</td><td>34 (33-33-32)<br>12/11</td></tr><tr><td style="background-color: wheat;">3.</td><td style="background-color: wheat;">作为「无常」(anicca) -</td><td>12</td><td>〃</td><td>〃</td></tr><tr><td style="background-color: wheat;">4.</td><td style="background-color: wheat;">作为「苦」(dukkha) -</td><td>12</td><td>〃</td><td>〃</td></tr><tr><td style="background-color: wheat;">5.</td><td style="background-color: wheat;">作为「无我」(anatta) -</td><td>12</td><td>〃</td><td>〃</td></tr><tr><td style="background-color: wheat;">6.</td><td style="background-color: wheat;">作为「不净」(asubha) -</td><td>12</td><td>〃</td><td>〃</td></tr></tbody></table>
 **色所缘(=颜色)线 - 善好组 心-心所(citta-cetasika)表**
 
-<table class="MsoTableGrid" border="1" cellspacing="0" style="border-collapse:collapse;width:941.9500pt;margin-left:6.7500pt;margin-right:6.7500pt;mso-table-layout-alt:fixed;border:none;mso-border-left-alt:0.5000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;mso-border-insideh:0.5000pt solid windowtext;mso-border-insidev:0.5000pt solid windowtext;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;"><tbody><tr style="height:28.8000pt;"><td width="1008" valign="center" colspan="7" style="width:605.3500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">眼门心路</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="top" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal"><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="430" valign="center" colspan="3" style="width:258.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">意门心路</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.9000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">五门转向</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">眼识</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">领受</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">推度</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">确定</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">速行 (7)</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">彼所缘 (2)</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">有分</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">意门转向</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">速行 (7)</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;background:rgb(241,241,241);"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">彼所缘 (2)</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:31.9000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">11</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">8</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">11</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">12</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">12</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">34</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">34</span><span style="font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">/</span><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">12</span><span style="font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">/</span><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">11</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">34</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">12</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">34</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">34</span><span style="font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">/</span><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">12</span><span style="font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">/</span><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">11</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">识心(viññāṇa)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;">识心</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">识心</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">识心</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">识心</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">信-慧</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">信-慧</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">信-慧</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">识心</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">信-慧</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">信-慧</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">触(phassa)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">触</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">触</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">触</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">触</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">组</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">组</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">组</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">触</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">组</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">组</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">受(vedanā)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">受</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">受</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">受</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">受</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">名法</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">名法</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">名法</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">受</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">名法</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">名法</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">想(saññā)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">想</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">想</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">想</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">想</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">(34)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">(34)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">(34)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">想</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">(34)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">(34)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">思(cetanā)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">思</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">思</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">思</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">思</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">(或)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">思</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">(或)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">一境性(ekaggatā)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">一境性</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">一境性</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">一境性</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">一境性</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">无因(ahetuka)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">一境性</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">无因</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">命(jīvita)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">命</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">命</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">命</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">命</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">彼所缘</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">命</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">彼所缘</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">作意(manasikāra)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">作意</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">作意</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">作意</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">12^11</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">作意</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">12^11</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">寻(vitakka)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">寻</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">寻</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">寻</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">寻</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">伺(vicāra)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">伺</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">伺</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">伺</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">伺</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">胜解(adhimokkha)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">胜解</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">胜解</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">胜解</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">胜解</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td></tr><tr style="height:28.8000pt;"><td width="165" valign="center" style="width:99.2500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="146" valign="center" style="width:87.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="180" valign="center" style="width:108.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="152" valign="center" style="width:91.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">喜(pīti)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="132" valign="center" style="width:79.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">精进(viriya)</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="113" valign="center" style="width:67.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="120" valign="center" style="width:72.0000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="131" valign="center" style="width:78.6000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="147" valign="center" style="width:88.2000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Padauk;mso-hansi-font-family:Padauk;mso-bidi-font-family:Padauk;font-size:10.5000pt;mso-font-kerning:1.0000pt;">精进</span><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p></o:p></span></p></td><td width="134" valign="center" style="width:80.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td><td width="149" valign="center" style="width:89.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;border-top:none;mso-border-top-alt:none;border-bottom:1.0000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;"><p class="MsoNormal" align="center" style="text-align:center;"><span style="font-family:Padauk;mso-fareast-font-family:宋体;font-size:10.5000pt;mso-font-kerning:1.0000pt;"><o:p>&nbsp;</o:p></span></p></td></tr></tbody></table>
-
+<table><tbody><tr><td colspan="7" style="background-color: wheat; text-align: center;">眼门心路</td><td>&nbsp;</td><td colspan="3" style="background-color: wheat; text-align: center;">意门心路</td></tr><tr><td style="background-color: wheat;">五门转向</td><td style="background-color: wheat;">眼识</td><td style="background-color: wheat;">领受</td><td style="background-color: wheat;">推度</td><td style="background-color: wheat;">确定</td><td style="background-color: wheat;">速行 (7)</td><td style="background-color: wheat;">彼所缘 (2)</td><td style="background-color: wheat;">有分</td><td style="background-color: wheat;">意门转向</td><td style="background-color: wheat;">速行 (7)</td><td style="background-color: wheat;">彼所缘 (2)</td></tr><tr><td>11</td><td>8</td><td>11</td><td>12</td><td>12</td><td>34</td><td>34/12/11</td><td>34</td><td>12</td><td>34</td><td>34/12/11</td></tr><tr><td>识心(viññāṇa)</td><td>识心</td><td>识心</td><td>识心</td><td>识心</td><td>信-慧</td><td>信-慧</td><td>信-慧</td><td>识心</td><td>信-慧</td><td>信-慧</td></tr><tr><td>触(phassa)</td><td>触</td><td>触</td><td>触</td><td>触</td><td>组</td><td>组</td><td>组</td><td>触</td><td>组</td><td>组</td></tr><tr><td>受(vedanā)</td><td>受</td><td>受</td><td>受</td><td>受</td><td>名法</td><td>名法</td><td>名法</td><td>受</td><td>名法</td><td>名法</td></tr><tr><td>想(saññā)</td><td>想</td><td>想</td><td>想</td><td>想</td><td>(34)</td><td>(34)</td><td>(34)</td><td>想</td><td>(34)</td><td>(34)</td></tr><tr><td>思(cetanā)</td><td>思</td><td>思</td><td>思</td><td>思</td><td>&nbsp;</td><td>(或)</td><td>&nbsp;</td><td>思</td><td>&nbsp;</td><td>(或)</td></tr><tr><td>一境性(ekaggatā)</td><td>一境性</td><td>一境性</td><td>一境性</td><td>一境性</td><td>&nbsp;</td><td>无因(ahetuka)</td><td>&nbsp;</td><td>一境性</td><td>&nbsp;</td><td>无因</td></tr><tr><td>命(jīvita)</td><td>命</td><td>命</td><td>命</td><td>命</td><td>&nbsp;</td><td>彼所缘</td><td>&nbsp;</td><td>命</td><td>&nbsp;</td><td>彼所缘</td></tr><tr><td>作意(manasikāra)</td><td>&nbsp;</td><td>作意</td><td>作意</td><td>作意</td><td>&nbsp;</td><td>12^11</td><td>&nbsp;</td><td>作意</td><td>&nbsp;</td><td>12^11</td></tr><tr><td>寻(vitakka)</td><td>&nbsp;</td><td>寻</td><td>寻</td><td>寻</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>寻</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>伺(vicāra)</td><td>&nbsp;</td><td>伺</td><td>伺</td><td>伺</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>伺</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>胜解(adhimokkha)</td><td>&nbsp;</td><td>胜解</td><td>胜解</td><td>胜解</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>胜解</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>喜(pīti)</td><td>精进(viriya)</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>精进</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
 **注。** 。在推度中，若与悦受(somanassa)相应，由于含摄有喜，故心-心所为(12)个；若与舍受(upekkhā)相应而不含喜，则心-心所为(11)个。
 
 **【文件：[1]无色摄受章/[149]摄受五门心路名法的方式篇/[152] 色所缘(=颜色)线善组.md】**
@@ -6104,7 +6102,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[193]c 恶行与恶命.md】**
 
-### 恶行(duccarita)与恶命(durājīva)
+#### 恶行(duccarita)与恶命(durājīva)
 
 在此远离(virati)方面，恶行有身恶行(kāyaduccarita)、语恶行(vacīduccarita)两种。
 那两种恶行只要与谋生糊口相关联，就称为恶命(＝不善的谋生)。
@@ -6131,7 +6129,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[194] 正语.md】**
 
-### 正语（sammāvācā）
+#### 正语（sammāvācā）
 
 正语，依论正语（kathāsammāvācā）、思正语（cetanāsammāvācā）、远离正语（viratisammāvācā）而有（3）种。
 在这（3）种当中——
@@ -6171,7 +6169,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[196]a 正语 - 观照格.md】**
 
-### 正语（sammāvācā） - 观照格
+##### 正语（sammāvācā） - 观照格
 
 - 1。请循序渐进地建立定（samādhi）。
 - 2。请摄受有分意明净界（bhavaṅga）。
@@ -6181,7 +6179,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[196]b 另一种观照格.md】**
 
-### 另一种观照格
+##### 另一种观照格
 
 - 1。请循序渐进地建立定（samādhi）。
 - 2。请从此刻起，一点一点地摄受诸色名（rūpa-nāma），直到那个曾生起正语（sammāvācā）、例如 --- 曾从妄语（musāvāda）之言中避离的时段。
@@ -6193,7 +6191,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[196]c 三十五个名法.md】**
 
-### (35) 个名法(nāma dhamma)
+##### (35) 个名法(nāma dhamma)
 
 如此摄受之时 ---
 
@@ -6246,7 +6244,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[197] 正业 - 观照格.md】**
 
-### 正业(sammākammanta) - 观照格
+#### 正业(sammākammanta) - 观照格
 
 正业也 ---
 
@@ -6289,7 +6287,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[198] 正命.md】**
 
-### 正命(sammā-ājīva)
+#### 正命(sammā-ājīva)
 
 正命是 ---
 
@@ -6326,7 +6324,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[199] 正命 - 观照格.md】**
 
-### 正命(sammā ājīva) - 观照格
+##### 正命(sammā ājīva) - 观照格
 
 - 1、请摄受有分意明净界(bhavaṅga)。
 - 2、请伸取过去曾生起正命的某个所缘(ārammaṇa)，并将其取为所缘。
@@ -6351,7 +6349,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[200]a 关于远离值得了解的一点.md】**
 
-### 关于远离(virati)值得了解的一点
+#### 关于远离(virati)值得了解的一点
 
 在此，为了在观照这些远离心所(virati-cetasika)时能更深入地领会、理解观照格，以下依《殊胜义注》(Aṭṭhasālinī)第146页等处所载，继续一并呈述古代诸位大师的评析。
 
@@ -6363,7 +6361,7 @@ cittaṃ viññāṇakkhandhoti upaṭṭhāti. (Visuddhi, 2, 226.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[200]b 一、习惯离.md】**
 
-### 一、习惯离（sampattavirati）
+##### 一、习惯离（sampattavirati）
 
 Tattha asamādinnasikkhāpadānaṃ attano jātivayabāhusaccādīni paccavekkhitvā "ayuttaṃ amhākaṃ evarūpaṃ pāpaṃ kātu"nti sampattaṃ vatthuṃ avītikkamantānaṃ uppajjamānā virati "**sampattaviratī**"ti veditabbā. (Abhi-A-1-146)
 
@@ -6376,7 +6374,7 @@ Tattha asamādinnasikkhāpadānaṃ attano jātivayabāhusaccādīni paccavekkhi
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[200]c 佳卡那优婆塞.md】**
 
-### 佳卡那（Cakkana）优婆塞
+###### 佳卡那（Cakkana）优婆塞
 
 在狮子洲（Sīhaḷa），曾经有一位名叫**佳卡那**的优婆塞。
 早在这位优婆塞年幼稚嫩的时候，他的母亲便患上了一种疾病。
@@ -6403,7 +6401,7 @@ Tattha asamādinnasikkhāpadānaṃ attano jātivayabāhusaccādīni paccavekkhi
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[201]a 二、受持离.md】**
 
-### 二、受持离（samādānavirati）----
+##### 二、受持离（samādānavirati）----
 
 Samādinnasikkhāpadānaṃ pana sikkhāpadasamādāne ca taduttariñca attano jīvitampi pariccajitvā vatthuṃ avītikkamantānaṃ uppajjamānā virati "**samādānaviratī**"ti veditabbā. (Abhi-A-1-146)
 
@@ -6412,7 +6410,7 @@ Samādinnasikkhāpadānaṃ pana sikkhāpadasamādāne ca taduttariñca attano j
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[201]b 住在伍达拉瓦达摩那山地区的优婆塞.md】**
 
-### 住在伍达拉·瓦达摩那(Uttara Vaḍḍhamāna)山地区的一位优婆塞(upāsaka)
+###### 住在伍达拉·瓦达摩那(Uttara Vaḍḍhamāna)山地区的一位优婆塞(upāsaka)
 
 那位优婆塞在住于阿摩婆利耶(Ambariya)寺院、持戒安居的**宾伽罗佛陀勒吉多大长老(Pingalabuddharakkhita Mahā Thera)**座前受持了训练要素(sikkhāpada),然后去耕田。
 那时,耕完田后放牛时,那位优婆塞的牛走失了;那位优婆塞寻找那走失的牛、四处徘徊之际,登上了伍达拉·瓦达摩那山。
@@ -6434,7 +6432,7 @@ asamādinnasīlassa sampattato yathāupaṭṭhitavītikkamitabbavatthuto virati
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[202]a 三、正断离.md】**
 
-### 三、正断离（samucchedavirati）----
+##### 三、正断离（samucchedavirati）----
 
 Ariyamaggasampayuttā pana virati "**samucchedaviratī**"ti veditabbā, yassā uppattito pabhuti "pāṇaṃ ghātessāmī"ti ariyapuggalānaṃ cittampi nuppajjatīti. (Abhi-A-1-147)
 
@@ -6443,7 +6441,7 @@ Ariyamaggasampayuttā pana virati "**samucchedaviratī**"ti veditabbā, yassā u
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[202]b 只是善.md】**
 
-### 只是善
+#### 只是善
 
 pañca sikkhāpadāni. pa. 
 kusalāyeva. (Abhi-2-305)
@@ -6452,7 +6450,7 @@ kusalāyeva. (Abhi-2-305)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[203] 诸远离法的所缘.md】**
 
-### 诸远离(virati)法的所缘(ārammaṇa)
+#### 诸远离(virati)法的所缘(ārammaṇa)
 
 pañca sikkhāpadāni. pa .
 paccuppannārammaṇā. (Abhi-2-305.)
@@ -6482,7 +6480,7 @@ imasmiṁ pana sikkhāpadavibhaṅge sammāsambuddhena abhidhammabhājanīyepi p
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[204]a 杀生等的所缘与值得了解的见解.md】**
 
-### 杀生(paṇātipāta)等的所缘(ārammaṇa)与值得了解的见解
+#### 杀生(paṇātipāta)等的所缘(ārammaṇa)与值得了解的见解
 
 **Ārammaṇato** pāṇātipāto jīvitindriyārammaṇo. 
 Adinnādānaṃ sattārammaṇaṃ vā saṅkhārārammaṇaṃ vā. 
@@ -6498,7 +6496,7 @@ Surāpānaṃ saṅkhārārammaṇaṃ. (Abhi-Ṭṭha-2-366.)
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[204]b 所谓训练要素.md】**
 
-### 所谓训练要素(sikkhāpada)
+#### 所谓训练要素(sikkhāpada)
 
 yasmā pana na kevalaṃ viratiyeva sikkhāpadaṃ, cetanāpi sikkhāpadameva, tasmā taṃ dassetuṃ dutiyanayo dassito.
 yasmā ca na kevalaṃ eteyeva dve dhammā sikkhāpadaṃ, cetanāsampayuttā pana paropaṇṇāsadhammāpi sikkhitabbakoṭṭhāsato sikkhāpadameva, tasmā tatiyanayopi dassito. (Abhi-ṭṭha-2-365.)
@@ -6511,7 +6509,7 @@ yasmā ca na kevalaṃ eteyeva dve dhammā sikkhāpadaṃ, cetanāsampayuttā pa
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[204]c 审察远离的所缘.md】**
 
-### 审察远离(virati)的所缘(ārammaṇa)
+#### 审察远离(virati)的所缘(ārammaṇa)
 
 **ārammaṇato**ti pāṇātipātā veramaṇī parassa jīvitindriyaṃ ārammaṇaṃ katvā attano veracetanāya viramati.
 Itarāsupi eseva nayo.
@@ -6564,7 +6562,7 @@ Sabbāpi hi etā vītikkamitabbavatthuṃ ārammaṇaṃ katvā veracetanāhiyev
 
 ### 两种无量（appamaññā）心所（cetasika）
 
-### 悲悯（karuṇā）心所观照格
+#### 悲悯（karuṇā）心所观照格
 
 **悲悯** = 以受苦的有情（satta）为所缘而生起怜悯、慈爱的性质，想要将（其）从苦难中救拔出来的性质，
 
@@ -6597,7 +6595,7 @@ Sabbāpi hi etā vītikkamitabbavatthuṃ ārammaṇaṃ katvā veracetanāhiyev
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[208]a 喜心所观照格.md】**
 
-### 喜（muditā）心所（cetasika）观照格
+#### 喜（muditā）心所（cetasika）观照格
 
 **喜** = 以财富圆满具足的安乐有情（satta）为所缘而清净欢喜的性质、清朗欢喜的性质，
 
@@ -6629,7 +6627,7 @@ Sabbāpi hi etā vītikkamitabbavatthuṃ ārammaṇaṃ katvā veracetanāhiyev
 
 **【文件：[1]无色摄受章/[193]摄受离与无量名法的方式/[208]b 需要注意的要点.md】**
 
-### 需要注意的要点
+#### 需要注意的要点
 
 这些悲悯(karuṇā)、喜(muditā)心所(cetasika)也能够与唯作心(kiriyācitta)相应共生。 
 但由于那些唯作心是仅能在阿罗汉(arahanta)诸圣尊的心相续(santāna)中生起的心，所以在此观察段中不予列示。
@@ -7800,7 +7798,7 @@ tattha pañcadvārāvajjana cakkhuviññāṇa sampaṭicchana santīraṇa vo�
 
 **【文件：[1]无色摄受章/[246]摄受五门不善速行名法的方式/[246]a 摄受五门不善速行名法的方式.md】**
 
-## 摄受五门(pañcadvāra)不善(akusala)速行心路(javanavīthi)名法(nāma)的方式
+### 摄受五门(pañcadvāra)不善(akusala)速行心路(javanavīthi)名法(nāma)的方式
 
 **【文件：[1]无色摄受章/[246]摄受五门不善速行名法的方式/[246]b 色所缘颜色线不善组的观照部分.md】**
 
@@ -8614,7 +8612,7 @@ so sabbepi te arūpadhamme **namanalakkhaṇena** ekato katvā “etaṃ **nāma
 
 **【文件：[275]色无色摄受章/[275]b 摄受色—名的方式.md】**
 
-### 摄受色—名的方式 篇
+## 摄受色—名的方式 篇
 
 一、在色业处(rūpakammaṭṭhāna)部分中，把存在于(6)门(dvāra)、(42)身分(koṭṭhāsa)中的一切真实色(nipphannarūpa)、假色(anipphannarūpa)（连同业生色(kammajarūpa)，以及心生色(cittajarūpa)、时节生色(utujarūpa)、食生色(āhārajarūpa)的真实色、假色都包含在内的一切色）统摄起来，由于那些色法冷、热等诸因缘，取前色相续与后色相续不同的生起＝变坏的性质为所缘，从而 ---
 
@@ -8624,7 +8622,7 @@ so sabbepi te arūpadhamme **namanalakkhaṇena** ekato katvā “etaṃ **nāma
 
 **【文件：[275]色无色摄受章/[275]c 三、分开色—名 = 摄受.md】**
 
-### 三、分开色(rūpa)—名(nāma)、摄受
+## 三、分开色(rūpa)—名(nāma)、摄受
 
 - 一、yo hi cattāri mahābhūtāni pariggahetvā upādārūpaṃ pariggaṇhāti,
 - 二、arūpaṃ pariggaṇhāti,
@@ -8696,7 +8694,7 @@ iti idañca nāmaṃ, idañca rūpaṃ, idaṃ vuccati nāmarūpanti saṅkhepat
 
 **【文件：[279]名色分别章/[279]b 名色分别章.md】**
 
-### 4. 名色分别(nāmarūpavavatthāna) = 分别、辨识色(rūpa)+名(nāma)
+## 4. 名色分别(nāmarūpavavatthāna) = 分别、辨识色(rūpa)+名(nāma)
 
 So evaṃ phassādīnaṃ vasena upaṭṭhite cattāro arūpino khandhe nāmanti, tesaṃ ārammaṇabhūtāni cattāri mahābhūtāni, catunnañca mahābhūtānaṃ upādāyarūpaṃ rūpanti vavatthapeti.
 Iti aṭṭhārasa dhātuyo dvādasāyatanāni pañcakkhandhāti sabbepi tebhūmake dhamme khaggena samuggaṃ vivaramāno viya yamakatālakandaṃ phālayamāno viya ca nāmañca rūpañcāti dvedhā vavatthapeti.
@@ -8792,7 +8790,7 @@ Iti imasmiṃ sutte tissopi pariññā kathitā honti.
 
 **【文件：[279]名色分别章/[282]a 见清净.md】**
 
-### 见清净（diṭṭhivisuddhi）
+## 见清净（diṭṭhivisuddhi）
 
 Lakkhaṇa-rasa-paccupaṭṭhāna-padaṭṭhānavasena nāmarūpapariggaho **diṭṭhivisuddhi** nāma. (Abhidhammatthasaṅgaha.)
 
@@ -8857,7 +8855,7 @@ daṭṭhukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā cak
 
 **【文件：[279]名色分别章/[284] 意界.md】**
 
-### 意界（manodhātu）
+#### 意界（manodhātu）
 
 Tīni manodhātucittāni ekā manodhātu. (Visuddhi 2, 224.)
 
@@ -8887,7 +8885,7 @@ Pavesā-pagame dvāra-pariyāyena tiṭṭhati. (Nāmarūpapariccheda.)
 
 **【文件：[279]名色分别章/[284]b 五识界.md】**
 
-### 五识界(pañcaviññāṇadhātu)
+#### 五识界(pañcaviññāṇadhātu)
 
 五识(pañcaviññāṇa)只是把直接显现在各自所依处色(vatthurūpa)上的所缘轻易地取来而已,因此在"知"这方面,其力量比意界(manodhātu)更强;正因如此,在表示"知"义的 ñāṇa 词根之上冠以 vi- 这个前缀(upasāra)之后 —— visesena jānātīti viññāṇaṃ = 因为比意界更以殊胜的方式了知所缘,故被称为识界(viññāṇadhātu)。然而,由于它是从所依处色与自己不同的转向(āvajjana)那里,借无间力(anantarasatti)得到资助,又须反过来对所依处色与自己不同的领受(sampaṭicchana)以无间力给予资助,所以无论就它受同一所依之心所资助的程度而言,还是就它资助同一所依之识的诸意识界(manoviññāṇadhātu)的程度而言,其力量都不够圆满。
 正如名为《分别》(Vibhaṅga)的巴利圣典中以 **aññatra abhinipātamattā** 所开示的那样,(五识)只不过是向各自相关的五种所缘(pañcārammaṇa)投落趣入的性质而已。
@@ -8901,7 +8899,7 @@ Pavesā-pagame dvāra-pariyāyena tiṭṭhati. (Nāmarūpapariccheda.)
 
 **【文件：[279]名色分别章/[285]a 意识界.md】**
 
-### 意识界(manoviññāṇadhātu)
+#### 意识界(manoviññāṇadhātu)
 
 「意(mano)」这个词，也宣说「知」的意思；「识(viññāṇa)」这个词，则宣说「特别地知」的意思。
 如此——「知 + 特别地知」——把这两个词交织并合在一起，因而显明出「知得广大、深深地知、极度而特别地知」这样的意义。
@@ -8943,7 +8941,7 @@ Pavesā-pagame dvāra-pariyāyena tiṭṭhati. (Nāmarūpapariccheda.)
 
 **【文件：[279]名色分别章/[286] 入处得名的方式.md】**
 
-### 入处(āyatana)得名的方式
+#### 入处(āyatana)得名的方式
 
 Avisesato pana āyatanato, āyānaṃ tananato, āyatassa ca nayanato āyatananti veditabbaṃ. (Visuddhi 2, 112.)
 
@@ -8974,7 +8972,7 @@ Avisesato pana āyatanato, āyānaṃ tananato, āyatassa ca nayanato āyatanant
 
 **【文件：[279]名色分别章/[287] 意处 - 法处.md】**
 
-### 意处(manāyatana) - 法处(dhammāyatana)
+#### 意处(manāyatana) - 法处(dhammāyatana)
 
 Dvārārammaṇa bhedena, bhavantāyatanāni ca,
 
@@ -9291,7 +9289,7 @@ Ime vuccanti bhikkhave pañcupādānakkhandhāti. (Saṃ. 2, 39.)
 
 **【文件：[279]名色分别章/[297] 蕴与取蕴.md】**
 
-### 蕴(khandha)与取蕴(upādānakkhandhā)
+#### 蕴(khandha)与取蕴(upādānakkhandhā)
 
 Chaṭṭhe rūpakkhandho kāmāvacaro, cattāro khandhā catubhūmakā. Pa. Idhāpi rūpakkhandho kāmāvacaro, avasesā tebhūmakā vipassanācāravasena vuttā.
 Evamettha rūpaṃ rāsaṭṭhena khandhesu paviṭṭhaṃ, sāsavarāsaṭṭhena upādānakkhandhesu.
@@ -9344,7 +9342,7 @@ Katamāni tīṇi, uppādo paññāyati, vayo paññāyati, ṭhitassa aññatha
 
 **【文件：[279]名色分别章/[299]a 分辨记住名-色.md】**
 
-### 分辨并记住名-色
+#### 分辨并记住名-色
 
 Iti rūpakkhandho rūpaṃ, cattāro arūpino khandhā nāmanti evameko pañcakkhandhavasena nāmarūpaṃ vavatthapeti. (Visuddhi, 2, 225.)
 
@@ -9366,7 +9364,7 @@ Iti rūpakkhandho rūpaṃ, cattāro arūpino khandhā nāmanti evameko pañcakk
 
 **【文件：[279]名色分别章/[299]b 详细分别观照 - 五蕴.md】**
 
-### 详细分别观照之法 - 五蕴(khandha)法
+#### 详细分别观照之法 - 五蕴(khandha)法
 
 Ettha hi cakkhu ceva rūpañca rūpakkhandho, dassanaṃ viññāṇakkhandho, taṃsampayuttā vedanā vedanākkhandho, saññā saññākkhandho, phassādikā saṅkhārakkhandho.
 Evametesaṃ pañcannaṃ khandhānaṃ samavāye ālokanavilokanaṃ paññāyati.
@@ -9401,7 +9399,7 @@ Tattha ko eko āloketi, ko viloketi. (Ma-Ṭṭha 1, 267-268)
 
 **【文件：[279]名色分别章/[300]a 一套良好的方法.md】**
 
-### 一套良好的方法
+#### 一套良好的方法
 
 如此，以蕴(khandha)之五者的方法收摄色(rūpa)-名(nāma)时，会发现如名业处(nāma kammaṭṭhāna)诸表中所示那样逐行收摄，智慧更为清净。
 请重新查看色所缘(rūpārammaṇa)线善组的名业处表。
@@ -10124,7 +10122,7 @@ So purimanayeneva luddho ceva hoti dandho ca, sukhasīlako pana hoti akkodhano. 
 
 **【文件：[279]名色分别章/[318]增盛述说论/[325]b 应当注意的一点.md】**
 
-### 应当注意的一点
+#### 应当注意的一点
 
 在没有智慧(ñāṇa-paññā)、对任何事都没有通达了知的情况下做了一件善事，在那业(kamma)成熟给予果报的生命中，就只会成为愚劣的人、愚痴的人、痴钝的人，会成为没有智慧的人、榆木脑袋——这一点，正是特别应当注意的一点。
 为了不至于随随便便地造下一个业，应当特别小心谨慎。
@@ -10139,7 +10137,7 @@ So purimanayeneva luddho ceva hoti dandho ca, sukhasīlako pana hoti akkodhano. 
 
 **【文件：[279]名色分别章/[318]增盛述说论/[326] 四谛正见.md】**
 
-### 四谛正见(catusacca sammādiṭṭhi)
+#### 四谛正见(catusacca sammādiṭṭhi)
 
 Katamā ca bhikkhave sammādiṭṭhi? Yaṃ kho bhikkhave dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ.
 Ayaṃ vuccati bhikkhave sammādiṭṭhi. (M 1, 88.)
@@ -10319,7 +10317,7 @@ Yassa pana kammāyūhanakkhaṇe tayopi alobhādayo balavanto honti, lobhādayo 
 
 **【文件：[279]名色分别章/[318]增盛述说论/[333]a 一个大好机会.md】**
 
-### 一个大好机会
+#### 一个大好机会
 
 如今，在你这位善人得以值遇的这一伟大的教育(sāsana)之中——
 
@@ -10334,7 +10332,7 @@ Yassa pana kammāyūhanakkhaṇe tayopi alobhādayo balavanto honti, lobhādayo 
 
 **【文件：[279]名色分别章/[318]增盛述说论/[333]b 巨大的智慧.md】**
 
-### 巨大的智慧
+#### 巨大的智慧
 
 这具蕴身(khandhā),是由约极微(paramāṇu)微尘般、或比极微微尘还要小许多倍的色聚(rūpakalāpa)所组织建立起来的;而在那些色聚中,也是由地(pathavī)、水(āpo)、火(tejo)、风(vāyo)、颜色(vaṇṇa)、香(gandha)、味(rasa)、食素(ojā)这至少八种色究竟法(rūpaparamattha)的自性法所构成的。
 在某些色聚中有九种色究竟法的自性法,在某些色聚中有十种色究竟法的自性法——如此等等,由这些色究竟法的自性法所构建而成。
@@ -10375,7 +10373,7 @@ Yassa pana kammāyūhanakkhaṇe tayopi alobhādayo balavanto honti, lobhādayo 
 
 **【文件：[279]名色分别章/[318]增盛述说论/[335] 心的力量.md】**
 
-### 心(citta)的力量
+#### 心(citta)的力量
 
 Cittena nīyati loko, cittena parikassati.<br>Cittassa ekadhammassa, sabbeva vasamanvagū.(Saṃ 1.36, Cittasutta.)
 
@@ -10397,7 +10395,7 @@ Cittena nīyati loko, cittena parikassati.<br>Cittassa ekadhammassa, sabbeva vas
 
 **【文件：[279]名色分别章/[318]增盛述说论/[336]a 请这样省察自己的心.md】**
 
-### 请这样省察自己的心
+#### 请这样省察自己的心
 
 Tasmātiha bhikkhave abhikkhaṇaṃ sakaṃ cittaṃ paccavekkhitabbaṃ "dīgharattamidaṃ cittaṃ saṃkiliṭṭhaṃ rāgena dosena mohenā"ti.
 Cittasaṃkilesā bhikkhave sattā saṃkilissanti, cittavodānā sattā visujjhanti. (Saṃ. 2, 123. Gaddulabaddhasutta)
@@ -10411,7 +10409,7 @@ Cittasaṃkilesā bhikkhave sattā saṃkilissanti, cittavodānā sattā visujjh
 
 **【文件：[279]名色分别章/[318]增盛述说论/[336]b 请调整改变自己的心态.md】**
 
-### 请调整改变自己的心态
+#### 请调整改变自己的心态
 
 如此省察，请你们自己亲自调整改变自己的心态。
 
@@ -10454,7 +10452,7 @@ Ijjhati bhikkhave sīlavato cetopaṇidhi visuddhattā. (Aṃ, 3, 71. Dānūpapa
 
 **【文件：[279]名色分别章/[318]增盛述说论/[338] 能获得梵天神王荣华富贵的方式.md】**
 
-### 能获得梵天(brahmā)神王荣华富贵的方式
+#### 能获得梵天(brahmā)神王荣华富贵的方式
 
 在这里，关于布施(dāna)甚至也能赐予梵天神王荣华富贵的方式，(经中)如此记载。
 Tañca kho sīlavato vadāmi, no dussīlassa. 
@@ -10480,7 +10478,7 @@ Tena vuttaṃ "vitarāgassa, no sarāgassā"ti. (Aṃ, ṭha, 3, 230.)
 
 **【文件：[279]名色分别章/[318]增盛述说论/[339] 加努索尼经.md】**
 
-### 加努索尼经(Jāṇussoṇisutta)
+#### 加努索尼经(Jāṇussoṇisutta)
 
 那时，身为宾比萨勒(Bimbisāra)大王的国师(purohita)大师的加努索尼(Jāṇussoṇi)大婆罗门(brāhmaṇa)，来到世尊(bhagavā)面前，与世尊一同说了些令人欢喜、值得铭记的话语并说完之后，坐在一处适当合宜的地方，向世尊如此禀白：
 
@@ -10642,7 +10640,7 @@ Tassa taṃ cittaṃ hīne vimuttaṃ uttari abhāvitaṃ tatrūpapattiyā saṃ
 
 **【文件：[279]名色分别章/[318]增盛述说论/[345] 少许例外.md】**
 
-### 少许例外
+#### 少许例外
 
 在给予布施的个体(puggala)一方 ---
 
@@ -11030,13 +11028,13 @@ Sabbesu abhikkamādīsu catubbidhaṃ sampajaññaṃ otāreti.（阿毗达摩�
 - 四、无痴正知（asammoha sampajañña）——
 如此，共有（四）种正知。
 
-### 一、有益正知
+#### 一、有益正知
 
 在那四种正知当中——当想要向前行进的心生起时，先不立即随顺心的意愿而行动——而是『到此处去，究竟对我有益呢，还是无益呢？』这样以智辨别有益与无益，唯以智辨别、把握其中有益者，即名为 **有益正知**。（阿毗达摩义注 2，332。中部义注 1，258。）
 
 **【文件：[347]威仪章与正知章/[358]b 所谓利益之法.md】**
 
-### 所谓利益之法
+##### 所谓利益之法
 
 Tattha ca atthoti cetiyadassana-bodhidassana-saṃghadassana-theradassana-asubhadassanādivasena dhammato vaḍḍhi. (Abhi.ṭṭha.2.332. Ma.ṭṭha.1.258.)
 
@@ -11045,7 +11043,7 @@ Tattha ca atthoti cetiyadassana-bodhidassana-saṃghadassana-theradassana-asubha
 
 **【文件：[347]威仪章与正知章/[358]c 利益之法能如何获得.md】**
 
-### 利益之法能如何获得
+##### 利益之法能如何获得
 
 当瞻礼佛塔(cetiya)与菩提树(bodhi)时，buddhārammaṇapīti = 以佛陀(Buddha)素质(guṇa)为所缘(ārammaṇa)的喜(pīti)会一再地生起。
 这些即是与喜俱行的大善(mahākusala)意门速行心路(manodvārika javana vīthi)心之相续。
@@ -11059,7 +11057,7 @@ Tattha ca atthoti cetiyadassana-bodhidassana-saṃghadassana-theradassana-asubha
 
 **【文件：[347]威仪章与正知章/[359] 二、适宜正知.md】**
 
-### 二、适宜正知(sappāya sampajañña)
+#### 二、适宜正知(sappāya sampajañña)
 
 就这样，以想要瞻礼佛塔(cetiya)等为目标而前往时——用智(ñāṇa)辨别是适宜(sappāya)还是不适宜(asappāya)（即恰当与否），只有对适宜的才能以智辨别取用、并能随顺遵行——这就称为**适宜正知**。
 
@@ -11117,7 +11115,7 @@ Tattha ca atthoti cetiyadassana-bodhidassana-saṃghadassana-theradassana-asubha
 
 **【文件：[347]威仪章与正知章/[361] 三、行处正知.md】**
 
-### 三、行处正知(gocara sampajañña)
+#### 三、行处正知(gocara sampajañña)
 
 如此以智慧分辨、摄取并保存了利益正知(sātthaka sampajañña)、适宜正知(sappāya sampajañña)的瑜伽行者(yogāvacara)比库,在共(38)种止(samatha)业处(kammaṭṭhāna)之中,把被称为自己心所喜爱之业处的行处(= 业处所缘)学习到足以生起并完成取相(uggaha nimitta)的程度,并在托钵游行之处唯独取用该业处、= 作意于该业处而去托钵——这就名为**行处正知**。(Abhi, ṭha, 2, 333。Ma, ṭha, 1, 259。)
 
@@ -11129,7 +11127,7 @@ Tattha ca atthoti cetiyadassana-bodhidassana-saṃghadassana-theradassana-asubha
 
 **【文件：[347]威仪章与正知章/[362]a 行仪(４)种.md】**
 
-### 行仪(vatta)(４)种(中部义注·1·2259……;阿毗达摩义注·2·333……)
+##### 行仪(vatta)(４)种(中部义注·1·2259……;阿毗达摩义注·2·333……)
 
 在此教法(sāsanā)中 ---
 - 甲、有些比库(bhikkhu)在托钵去程中修持业处(kammaṭṭhāna)、精进用功,从托钵村返回时却不修持、不精进。
@@ -11143,7 +11141,7 @@ Tattha ca atthoti cetiyadassana-bodhidassana-saṃghadassana-theradassana-asubha
 
 **【文件：[347]威仪章与正知章/[362]b (一) 托钵去程修业处、回程不修业处者.md】**
 
-### (一) 托钵去程修业处、回程不修业处者
+###### (一) 托钵去程修业处、回程不修业处者
 
 (一) 在那四种比库(bhikkhu)当中，有这样一位比库：整日以经行、静坐，把心从那些会障蔽诸善法(kusala)的诸盖(nīvaraṇa)中洗涤清净（=努力修习，以证得称为近行定(upacāra samādhi)、安止定(appanā samādhi)的某一种定(samādhi)，使心远离诸盖的垢秽），同样地，在夜晚初夜(paṭhama yāma)的整段时间里，也把心从诸盖的垢秽中洗涤清净。
 到了中夜(majjhima yāma)=午夜时分便入睡；到了后夜(pacchima yāma)=黎明时分，则又以静坐、经行，作意着业处(kammaṭṭhāna)来度过时光。
@@ -11189,7 +11187,7 @@ Dhammakathā hi kammaṭṭhānavinimuttā nāma natthi. （Abhi-ṭha 2, 334；
 
 **【文件：[347]威仪章与正知章/[364] (二) 托钵去程不修业处.md】**
 
-### (二) 在托钵去程不修业处、只在返程才修习者
+###### (二) 在托钵去程不修业处、只在返程才修习者
 
 (二) 有一位比库(bhikkhu)，正如前面已说明的那样，一大早就从床上起来，在履行各项大小义务时，名为「gahaṇī」的业生火界(kammaja tejodhātu)之火便熊熊燃烧起来。
 由于胃中没有名为「非执受(anupādinnaka)」的食物养料作燃料，这火便烧灼名为「执受(upādinnaka)」的胃，将它紧紧攫住。
@@ -11200,7 +11198,7 @@ Dhammakathā hi kammaṭṭhānavinimuttā nāma natthi. （Abhi-ṭha 2, 334；
 他以指向业处的心 = 作意着业处，继续用粥；又清洗钵与口腔；在还没用日间斋饭、还没到托钵时之前的这段时间里，一直作意着业处；到托钵时便去托钵，并以业处为先 = 唯以作意着业处的方式受用斋食；从那时起，借着不间断、接连不断、一次又一次的作意，他唯有带着在觉智中显现出来的业处，才返回寺院。
 这类比库，应当称之为**在托钵去程不修业处、唯有在从托钵之村返回时才修业处者** --- 。（Abhi-ṭha 2, 335；Ma-ṭha 1, 261。）
 
-### Gaṇanapathaṃ vītivattā
+####### Gaṇanapathaṃ vītivattā
 
 Edisā ca bhikkhū yāguṃ pivitvā vipassanaṃ ārabhitvā Buddhasāsane arahattaṃ pattā nāma gaṇanapathaṃ vītivattā.
 Sīhaḷadīpeyeva tesu tesu gāmesu **āsanasālāya** na taṃ āsanaṃ atthi, yattha yāguṃ pivitvā arahattaṃ pattā bhikkhū natthīti. （Abhi-ṭha 2, 335；Ma-ṭha 1, 261。）
@@ -11211,7 +11209,7 @@ Sīhaḷadīpeyeva tesu tesu gāmesu **āsanasālāya** na taṃ āsanaṃ atthi
 
 **【文件：[347]威仪章与正知章/[365] (三) 托钵去程与回程皆不携带业处者.md】**
 
-### (三) 托钵去程与回程皆不携带业处者
+###### (三) 托钵去程与回程皆不携带业处者
 
 有一位比库(bhikkhu)，并不勤修止(samatha)、观(vipassanā)等修习(bhāvana)，而是在教法(sāsanā)之中懒散健忘、松松垮垮、随随便便地度日。作为教法侍者的诸位比库所应承担的「责任(dhura)＝职责义务」有两种：即名为「学习、教授经典教籍」的经教之责(ganthadhura)，与名为「观修业处(kammaṭṭhāna)、勤修观禅」的观业之责(vipassanādhura)。
 那位比库对于教法侍者诸比库应当承担的这两种责任、这两大职责义务，始终一概弃置不顾。
@@ -11233,7 +11231,7 @@ Sīhaḷadīpeyeva tesu tesu gāmesu **āsanasālāya** na taṃ āsanaṃ atthi
 
 **【文件：[347]威仪章与正知章/[366] (四) 去程与回程皆携带业处者.md】**
 
-### (四) 去程与回程皆携带业处(kammaṭṭhāna)者 (gatapaccāgatikavatta)
+###### (四) 去程与回程皆携带业处(kammaṭṭhāna)者 (gatapaccāgatikavatta)
 
 有一位比库(bhikkhu)则是这样说的——「在前往托钵的途中也携带业处，从托钵的村庄返回的途中也携带业处。」
 请依「去程与回程皆携带业处的行仪」(gatapaccāgatikavatta)之意来了知这样的比库。
@@ -11278,7 +11276,7 @@ Tasmā gamane uppannakilesaṃ gamaneyeva nigganhatha.
 
 **【文件：[347]威仪章与正知章/[368] 尊贵的马哈普思德瓦大长老.md】**
 
-### 尊贵的马哈普思德瓦大长老
+####### 尊贵的马哈普思德瓦大长老
 
 那位尊贵的马哈普思德瓦（Mahāphussadeva）大长老，在长达(19)年的整段时间里，始终只是圆满修持着去程回程之行仪(gatapaccāgatavatta)（= gatapaccāgatikavatta），如此地安住着。
 人们，以及在前往托钵乞食的道路沿途正在耕田的那些人，正在插秧的那些人，正在打稻脱粒的那些人，当他们正在做着自己耕作、种植等等活计的时候，看见马哈普思德瓦大长老像那样来回往返地走着，于是——
@@ -11308,7 +11306,7 @@ Tasmā gamane uppannakilesaṃ gamaneyeva nigganhatha.
 
 **【文件：[347]威仪章与正知章/[369] 尊贵的大龙大长老.md】**
 
-### 尊贵的大龙(Mahānāga)大长老
+###### 尊贵的大龙(Mahānāga)大长老
 
 住在卡拉瓦利曼达帕(Kāḷavallimaṇḍapa)(=黑藤棚)一带、安居修行的尊贵的大龙(Mahānāga)大长老，在圆满修持去回行仪(gatapaccāgatavatta)时，最初怀着「要以行道供养(paṭipattipūjā)来供奉佛陀那历时六年之久精勤修行、努力增修的苦行(dukkaracariyā)=大精勤(mahāpadhāna)修行次第」这样的决意，在长达七年的时间里，唯有站立与经行(=站立着把业处(kammaṭṭhāna)存于心中，经行着也唯把业处存于心中)——如此立誓奉行。
 (除了用餐、大便小便等事务之外，坐、卧这两种威仪(iriyāpatha)完全不使用。)
@@ -11326,7 +11324,7 @@ Tasmā gamane uppannakilesaṃ gamaneyeva nigganhatha.
 
 **【文件：[347]威仪章与正知章/[370]a 一条无价的教诫.md】**
 
-### 一条无价的教诫
+###### 一条无价的教诫
 
 在此，尊贵的大龙（mahānāga）大长老，哪怕只是说出「愿诸位长寿」这样一句话，正当如此说话的当下，心就会从业处（kammaṭṭhāna）所缘（ārammaṇa）飞散到旁边的所缘去，脱离而出。
 正因为连这一点也不愿发生，他才含着水，修习不开口说话。
@@ -11337,7 +11335,7 @@ Tasmā gamane uppannakilesaṃ gamaneyeva nigganhatha.
 
 **【文件：[347]威仪章与正知章/[370]b 在咖拉姆巴码头寺结夏安居的五十位比库.md】**
 
-### 在咖拉姆巴(Kalamba)码头寺结夏安居的五十(50)位比库(bhikkhu)
+###### 在咖拉姆巴(Kalamba)码头寺结夏安居的五十(50)位比库(bhikkhu)
 
 在咖拉姆巴码头寺,五十(50)位比库进入并度过了雨安居。
 那些比库在入雨安居的月圆日 ——
@@ -11370,7 +11368,7 @@ Tasmā gamane uppannakilesaṃ gamaneyeva nigganhatha.
 
 **【文件：[347]威仪章与正知章/[371] 应当遵循的规约要求.md】**
 
-### 应当遵循的规约要求
+##### 应当遵循的规约要求
 
 如此，就像在咖喇瓦利曼达帕(Kāḷavallimaṇḍapa)地方安居的大龙(Mahānāga)大长老那样，也像在咖喇姆巴(Kalamba)码头河岸寺院结夏安居的诸位比库那样，只以与业处(kammaṭṭhāna)相应的心（只以时时把业处铭记于心的心），抬起自己的脚，走向村庄附近。
 （请注意，这里特指像自己一向铭记于心、时常修习的入出息念(ānāpāna)那样，在四十种业处当中某一种业处而言。）
@@ -11416,7 +11414,7 @@ Tasmā gamane uppannakilesaṃ gamaneyeva nigganhatha.
 
 **【文件：[347]威仪章与正知章/[372] 能够获得的利益之法.md】**
 
-### 能够获得的利益之法
+##### 能够获得的利益之法
 
 在此托钵去程中修习业处(kammaṭṭhāna)、于托钵回程中修习业处，如此圆满履行「往返义务(gatapaccāgatavatta)」之人，倘若已具足足以证得阿拉汉果(arahatta phala)的强依止(upanissaya)——
 
@@ -11452,7 +11450,7 @@ Tasmā gamane uppannakilesaṃ gamaneyeva nigganhatha.
 
 **【文件：[347]威仪章与正知章/[374] 具足强依止.md】**
 
-### 具足强依止(upanissayasampanna)
+##### 具足强依止(upanissayasampanna)
 
 tattha paccekabodhiyā upanissayasampadā kappānaṃ dve asaṅkhyeyyāni satasahassañca tajjaṃ puññañāṇasambharaṇaṃ, sāvakabodhiyaṃ aggasāvakānaṃ ekaṃ asaṅkhyeyyaṃ kappasatasahassañca, mahāsāvakānaṃ kappasatasahassameva, itaresaṃ atītāsu jātīsu vivaṭṭasannissayavasena nibbattitaṃ nibbedhabhāgiyaṃ kusalaṃ. (dī.ṭī.1.246; ma.ṭī.1.357)
 
@@ -11473,7 +11471,7 @@ tattha paccekabodhiyā upanissayasampadā kappānaṃ dve asaṅkhyeyyāni satas
 
 **【文件：[347]威仪章与正知章/[375] 见唯所见的修行次第.md】**
 
-### diṭṭhe - diṭṭhamattaṃ 修行次第
+##### diṭṭhe - diṭṭhamattaṃ 修行次第
 
 Tasmātiha te bāhiya evaṃ sikkhitabbaṃ ---
 
@@ -11588,7 +11586,7 @@ Rūpāyatanaṃ passitabbaṭṭhena diṭṭhaṃ nāma.
 
 **【文件：[347]威仪章与正知章/[378] 识唯所识.md】**
 
-### Viññāte viññātamattaṃ
+##### Viññāte viññātamattaṃ
 
 **Viññāte viññātamatta**nti ettha pana viññātaṃ nāma manodvārāvajjanena viññātārammaṇaṃ, tasmiṃ viññāteviññātamattanti āvajjanapamāṇaṃ.
 Yathā āvajjanena na rajjati na dussati na muyhati, evaṃ rajjanādivasenauppajjituṃ adatvā āvajjanapamāṇeneva cittaṃ ṭhapessāmīti ayamettha attho. (Saṃ. ṭṭha. 3, 29.)
@@ -11617,7 +11615,7 @@ Tenāha "**yathā āvajjanenā**"tiādi. (Saṃ. ṭī. 2, 302.)
 
 **【文件：[347]威仪章与正知章/[379] 智遍知 判定遍智.md】**
 
-### Ñātapariññā tīraṇapariññā
+##### Ñātapariññā tīraṇapariññā
 
 Iti bhagavā bāhiyassa saṃkhittarucitāya chahi viññāṇakāyehi saddhiṃ chaḷārammaṇabhedabhinnaṃ vipassanāya visayaṃ diṭṭhādīhi catūhi koṭṭhāsehi vibhajitvā tatthassa ñātatīraṇapariññaṃ dasseti.
 Kathaṃ? Ettha hi rūpāyatanaṃ passitabbaṭṭhena diṭṭhaṃ nāma, cakkhuviññāṇaṃ pana saddhiṃ taṃdvārikaviññāṇehi dassanaṭṭhena.
@@ -11653,7 +11651,7 @@ Tadubhayampi yathāpaccayaṃ pavattamānaṃ dhammamattameva, na ettha koci kat
 
 **【文件：[347]威仪章与正知章/[380] 观察区 简要.md】**
 
-### 观察区 简要
+##### 观察区 简要
 
 - 一、**见(diṭṭha)** ---- (甲) 所见之法 = 色所缘(rūpārammaṇa)
   - ( 乙 ) 能见之法 = 眼门心路(cakkhudvāravīthi)、意门心路(manodvāravīthi)的名(nāma)法群
@@ -11681,7 +11679,7 @@ Tadubhayampi yathāpaccayaṃ pavattamānaṃ dhammamattameva, na ettha koci kat
 
 **【文件：[347]威仪章与正知章/[381] 迈向断遍知阶段.md】**
 
-### 迈向断遍知阶段
+##### 迈向断遍知阶段
 
 Idāni ñātatīraṇapariññāsu patiṭṭhitassa upari saha maggaphalena pahānapariññaṃ dassetuṃ “**yato kho te bāhiyā**”tiādi āraddhaṃ. (Udāna, ṭṭha, 82. Anuṭī, 2, 183.)
 
@@ -11717,7 +11715,7 @@ Idāni ñātatīraṇapariññāsu patiṭṭhitassa upari saha maggaphalena pah
 
 **【文件：[347]威仪章与正知章/[382] 无痴正知.md】**
 
-### 无痴正知(asammohasampajañña)
+#### 四、无痴正知(asammohasampajañña)
 
 Abhikkamādīsu pana asammuyhanaṃ **asammohasampajaññaṃ,** taṃ evaṃ veditabbaṃ ---- idha bhikkhu abhikkamanto vā paṭikkamanto vā yathā andhabālaputhujjanā abhikkamādīsu "attā abhikkamati, attanā abhikkamo nibbattito"ti vā "ahaṃ abhikkamāmi, mayā abhikkamo nibbattito"ti vā sammuyhanti.
 Tathā asammuyhanto "abhikkamāmī"ti citte uppajjamāne teneva cittena saddhiṃ cittasamuṭṭhānā vāyodhātu viññattiṃ janayamānā uppajjati.
@@ -11822,7 +11820,7 @@ Niṭṭhito **abhikkante paṭikkante sampajānakārī hotī**tipadassa attho. 
 
 **【文件：[347]威仪章与正知章/[386]a 于直视侧视时正知而行.md】**
 
-### Ālokite vilokite sampajānakārī hoti,
+##### Ālokite vilokite sampajānakārī hoti,
 
 **= 于直视、侧视之处，惯常以正知(sampajañña)智而作。**
 
@@ -11832,7 +11830,7 @@ Niṭṭhito **abhikkante paṭikkante sampajānakārī hotī**tipadassa attho. 
 
 **【文件：[347]威仪章与正知章/[386]b 一、有益正知.md】**
 
-### 一、有益正知(sātthaka sampajañña)
+#### 一、有益正知(sātthaka sampajañña)
 
 在那正视之处、侧视之处，当"我要看"这样的心生起时，若不只是随顺心的意愿便去看，而是先思量有益还是无益，从而能够辨别、把握其中的利益，这就名为 **有益正知**。
 关于这有益正知如何生起，应当以尊者难德(Nanda)长老为亲眼见证的例子来了知。
@@ -11861,13 +11859,13 @@ Etadaggaṃ bhikkhave mama sāvakānaṃ bhikkhūnaṃ indriyesu guttadvārāna�
 
 **【文件：[347]威仪章与正知章/[388]a 二、另一种方式的有益正知 - 适宜正知.md】**
 
-### 二、另一种方式的有益正知(sātthaka sampajañña) - 适宜正知(sappāya sampajañña)
+#### 二、另一种方式的有益正知(sātthaka sampajañña) - 适宜正知(sappāya sampajañña)
 
 若换一种方式来说——正如在『向前行走、向后退回』这一部分中所解说的那样，唯有凭借瞻礼佛塔（cetiya）等等的力量，才能了知**有益正知**，也才能了知**适宜正知**。（Abhi.ṭṭha.2.340.）
 
 **【文件：[347]威仪章与正知章/[388]b 三、行处正知.md】**
 
-### 三、行处正知(gocarasampajañña)
+#### 三、行处正知(gocarasampajañña)
 
 Kammaṭṭhānassa pana avijahanameva **gocarasampajaññaṃ.**
 Tasmā khandhādhātuāyatanakammaṭṭhānikehi attano kammaṭṭhānavaseneva, kasiṇādikammaṭṭhānikehi vā pana kammaṭṭhānasīseneva ālokanavilokanaṃ kātabbaṃ. (Abhi, ṭṭha, 2, 340. Ma, ṭṭha, 1, 266.)
@@ -11890,7 +11888,7 @@ Tasmā khandhādhātuāyatanakammaṭṭhānikehi attano kammaṭṭhānavasenev
 
 **【文件：[347]威仪章与正知章/[389]a 四、无痴正知.md】**
 
-### 四、无痴正知(asammohasampajañña)
+#### 四、无痴正知(asammohasampajañña)
 
 在蕴(khandha)之家内，根本没有会直视的我(atta)，也没有会侧视的我。
 「让我直视吧。」---
@@ -11906,7 +11904,7 @@ Tasmā khandhādhātuāyatanakammaṭṭhānikehi attano kammaṭṭhānavasenev
 
 **【文件：[347]威仪章与正知章/[389]b 根本遍知.md】**
 
-### 根本遍知(mūlapariññā)
+##### 根本遍知(mūlapariññā)
 
 换一种方式来说 ----
 
@@ -11967,7 +11965,7 @@ Evaṃ manodvārajavanassa mūlavasena mūlapariññā vuttā. (Dī, ṭī, 1, 2
 
 **【文件：[347]威仪章与正知章/[391] 区别法 比较法.md】**
 
-### 区别法(upalakkhaṇa) 比较法(nidassana)
+##### 区别法(upalakkhaṇa) 比较法(nidassana)
 
 由于以标记「部分」而宣说，从而连「整体」也一并取来的方法，称为**区别法**。 
 由于开示了一个显著之处，从而取来一切的方法，称为**比较法**。
@@ -12013,7 +12011,7 @@ Vuttamhi ekadhamme, ye dhammā ekalakkhaṇā tena.<br>Vuttā bhavanti sabbe, it
 
 **【文件：[347]威仪章与正知章/[392] 客人的性质.md】**
 
-### 客人(āgantuka)的性质
+##### 客人(āgantuka)的性质
 
 再者，当色所缘(rūpārammaṇa)在眼门(cakkhudvāra)（意门(manodvāra)）中显现时，在波动的有分(bhavaṅga)＝有分波动(bhavaṅgacalana)生起之处的上方（意指断绝的有分＝停止的有分＝有分断(bhavaṅgupaccheda)。）
 凭借各自完成其相应作用的力量，五门转向(pañcadvārāvajjana)、眼识(cakkhuviññāṇa)、领受(sampaṭicchana)、推度(santīraṇa)、确定(vuṭṭho)相继生起并灭去之后——最后，速行(javana)生起。
@@ -12035,7 +12033,7 @@ Vuttamhi ekadhamme, ye dhammā ekalakkhaṇā tena.<br>Vuttā bhavanti sabbe, it
 
 **【文件：[347]威仪章与正知章/[393] 暂时的自性.md】**
 
-### 暂时(tāvakālika)的自性
+##### 暂时(tāvakālika)的自性
 
 在眼门(cakkhudvāra)——从五门转向(pañcadvārāvajjana)开始、以确定(vuṭṭho)为终结的那些心生起，那些心与相伴的心所(cetasika)、相应(sampayutta)诸法一同，各自完成自己那种种作用之后，就在那一刹那便坏灭，彼此互不相见，因此它们的存在时间极为短暂，只与各自正在履行自身作用之时的暂时(tāvakālika)=片刻时段相应。
 犹如在一户人家里，全家人都死去时，就在那一刹那，那唯一残存、也具有必死之性(=正濒临死亡)的人，对于跳舞、唱歌等极度沉溺享乐是不相宜的；与此譬喻相同，在如眼门那样的某一个门(dvāra)中，一个接一个相续生起的转向(āvajjana)等诸心，各自完成自己那种种作用之后，就在那一刹那灭尽坏去时，对于残存下来、就在那一刹那也具有毁坏灭亡之死(maraṇa)性的速行心(javana)而言，以对所缘(ārammaṇa)的贪染、瞋害、愚迷之力而极度沉溺享乐，同样也是不相宜的。
@@ -12048,8 +12046,7 @@ Vuttamhi ekadhamme, ye dhammā ekalakkhaṇā tena.<br>Vuttā bhavanti sabbe, it
 另一种方式：也应以蕴(khandha)、入处(āyatana)、界(dhātu)、缘的反思(paccayapaccavekkhaṇa)之力，来了知此无痴正知。
 
 **【文件：[347]威仪章与正知章/[394] 凭借五蕴法之力生起无痴正知的样子.md】**
-
-### 凭借五蕴(khandha)法门之力，无痴正知(asammohasampajañña)生起的样子
+##### 凭借五蕴(khandha)法门之力，无痴正知(asammohasampajañña)生起的样子
 
 如此，在直视、侧视之处——（在眼识(cakkhuviññāṇa)心识刹那(cittakkhaṇa)之际）
 
@@ -12076,7 +12073,7 @@ Vuttamhi ekadhamme, ye dhammā ekalakkhaṇā tena.<br>Vuttā bhavanti sabbe, it
 
 **【文件：[347]威仪章与正知章/[395]a 凭借入处法之力生起无痴正知的样子.md】**
 
-### 凭借入处(āyatana)法门之力，无痴正知(asammohasampajañña)生起的样子
+##### 凭借入处(āyatana)法门之力，无痴正知(asammohasampajañña)生起的样子
 
 如此，在直视、侧视之处——（在眼识(cakkhuviññāṇa)的心识刹那(cittakkhaṇa)之际）
 
@@ -12098,7 +12095,7 @@ Vuttamhi ekadhamme, ye dhammā ekalakkhaṇā tena.<br>Vuttā bhavanti sabbe, it
 
 **【文件：[347]威仪章与正知章/[395]b 凭借界(18)种法之力生起无痴正知的样子.md】**
 
-### 凭借界(dhātu)(18)种法之力生起无痴正知(asammohasampajañña)的样子
+##### 凭借界(dhātu)(18)种法之力生起无痴正知(asammohasampajañña)的样子
 
 在直视、侧视之时 ---（在眼识(cakkhuviññāṇa)心识刹那(cittakkhaṇa)之际）
 
@@ -12122,7 +12119,7 @@ Vuttamhi ekadhamme, ye dhammā ekalakkhaṇā tena.<br>Vuttā bhavanti sabbe, it
 
 **【文件：[347]威仪章与正知章/[396] 缘反思(=反观因缘之法的方法).md】**
 
-### 凭借缘反思(paccayapaccavekkhaṇa)(=反观因缘之法的方法)之力生起无痴正知(asammohasampajañña)智的样子
+##### 凭借缘反思(paccayapaccavekkhaṇa)(=反观因缘之法的方法)之力生起无痴正知(asammohasampajañña)智的样子
 
 Tathā cakkhu nissayapaccayo, rūpaṃ ārammaṇapaccayo, āvajjanaṃ anantarasamanantaraanantarūpanissayanatthivigatapaccayo, āloko upanissayapaccayo, vedanādayo sahajātādipaccayā.
 Evametesaṃ paccayānaṃ samavāye ālokanavilokanaṃ paññāyati.
@@ -12209,7 +12206,7 @@ Tattha ko eko āloketi, ko viloketi. (Abhi-ṭṭha-2: 342; Ma-ṭṭha-1: 268.)
 
 **【文件：[347]威仪章与正知章/[399] 摄取观修的方法体系.md】**
 
-### 摄取观修的方法体系
+##### 摄取观修的方法体系
 
 无论是以坐着，还是以站立的方式，都要逐步重新建立「定(samādhi)」。
 要重新摄取诸色名(rūpa-nāma)。此后 ---
@@ -12273,13 +12270,13 @@ Tattha ko eko āloketi, ko viloketi. (Abhi-ṭṭha-2: 342; Ma-ṭṭha-1: 268.)
 
 **【文件：[347]威仪章与正知章/[402]a 弯屈伸展时以正知而作.md】**
 
-### Samiñjite pasārite sampajānakārī hoti.
+##### Samiñjite pasārite sampajānakārī hoti.
 
 **= 在弯屈、伸展时，惯于以正知(sampajañña)之智(ñāṇa)而作。**
 
 将手关节、脚关节这样的骨节的弯屈、伸展称为 samiñjita、pasārita。
 
-### 1. 有益正知(sātthakasampajañña)
+#### 一、有益正知(sātthakasampajañña)
 
 **Samiñjite pasārite**ti pabbānaṃ samiñjanapasāraṇe. 
 Tattha cittavaseneva samiñjanapasāraṇaṃ akatvā hatthapādānaṃ samiñjanapasāraṇapaccayā atthānatthaṃ pariggahetvā atthapariggaṇhanaṃ **sātthakasampajaññaṃ**. Tattha hatthapāde aticiraṃ samiñjitvā vā pasāretvā eva vā ṭhitassa khaṇe khaṇe vedanā uppajjanti, cittaṃ ekaggaṃ na labhati, kammaṭṭhānaṃ paripatati, visesaṃ nādhigacchati. 
@@ -12295,7 +12292,7 @@ Kāle samiñjantassa kāle pasārentassa pana tāvedanā nuppajjanti, cittaṃ e
 
 **【文件：[347]威仪章与正知章/[402]b 应遍知之法.md】**
 
-### 应遍知之法(abhiññeyya)
+##### 应遍知之法(abhiññeyya)
 
 sabbaṃ bhikkhave abhiññeyyaṃ. (Saṃ 2 258; Khu 9 6.)
 
@@ -12306,7 +12303,7 @@ sabbaṃ bhikkhave abhiññeyyaṃ. (Saṃ 2 258; Khu 9 6.)
 
 **【文件：[347]威仪章与正知章/[403]a 某些瑜伽行者的说法.md】**
 
-### 某些瑜伽行者（yogāvacara）的说法
+##### 某些瑜伽行者（yogāvacara）的说法
 
 某些高尚的瑜伽行者，坐禅经过一小段时间之后，当身体上生起种种疼痛酸楚时，便去随观那疼痛酸楚等。
 由于这样随观，当疼痛酸楚等消失时，他们便常说「受（vedanā）已经越过去了、受已经尽了、受已经不存在了」。
@@ -12327,7 +12324,7 @@ sabbaṃ bhikkhave abhiññeyyaṃ. (Saṃ 2 258; Khu 9 6.)
 
 **【文件：[347]威仪章与正知章/[403]b 受不会灭吗.md】**
 
-### 受不会灭吗？
+##### 受不会灭吗？
 
 受(vedanā)只是应以三种遍知慧(pariññāpaññā)清楚辨别了知的法聚而已。
 受并不是应当奋力对治使之灭尽的法。
@@ -12385,7 +12382,7 @@ pubbe kho susima dhammaṭṭhitiñāṇaṃ, pacchā nibbāne ñāṇaṃ. (Sa�
 
 **【文件：[347]威仪章与正知章/[405] 由不遵守规约而开始的错误.md】**
 
-### 由不遵守规约而开始的错误
+##### 由不遵守规约而开始的错误
 
 若瑜伽行者将要着手观(vipassanā)修习(bhāvanā)之业处 ---
 
@@ -12408,7 +12405,7 @@ pubbe kho susima dhammaṭṭhitiñāṇaṃ, pacchā nibbāne ñāṇaṃ. (Sa�
 
 **【文件：[347]威仪章与正知章/[406] 并非蛙论.md】**
 
-### 并非蛙论
+##### 并非蛙论
 
 seyyathāpi pahārāda mahāsamuddo anupubbaninno anupubbapoṇo anupubbapabbhāro na āyatakeneva papāto. 
 evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā na āyatakeneva aññāpaṭivedho. (Aṅg, 3, 41.)
@@ -12458,7 +12455,7 @@ evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā an
 
 **【文件：[347]威仪章与正知章/[408]a 二、适宜正知.md】**
 
-### 二、适宜正知(sappāya sampajañña)
+#### 二、适宜正知(sappāya sampajañña)
 
 在弯曲、伸展之处，由于能以智(ñāṇa)分辨其中是否有利益，虽然确有利益，
 但对于是否适宜(sappāya)＝是否恰当，先以智分辨，唯有对恰当
@@ -12482,7 +12479,7 @@ evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā an
 
 **【文件：[347]威仪章与正知章/[408]b 三、行处正知.md】**
 
-### 三、行处正知(gocara sampajañña)
+#### 三、行处正知(gocara sampajañña)
 
 在弯曲、伸展这些手脚时，**行处正知**是如何具备的，应当以大长老(mahāthera)的故事来清楚说明。
 大长老在白天思惟法义之处、即日间净洁之处安居静坐时，与安提瓦西咖(antevāsika)＝随近而住的弟子们一同交谈，便匆忙间（放脱了业处(kammaṭṭhāna)）弯了手。
@@ -12502,7 +12499,7 @@ evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā an
 
 **【文件：[347]威仪章与正知章/[409]a 四、无痴正知.md】**
 
-### 四、无痴正知（asammoha sampajañña）
+#### 四、无痴正知（asammoha sampajañña）
 
 在蕴之屋内，并不存在任何被称为我（atta）的、能弯屈者，也不存在能伸展者。
 由于想要弯屈的心或想要伸展的心而生起的风元素（vāyodhātu），其自然潜能之力过盛的色聚（kalāpa）群，遍布散行到那些各个部位——就如同操偶师牵拉木偶的线绳，使木偶的手脚做出招手之姿、说话之姿等种种优美的姿态一般——于是弯屈、伸展便生起了。
@@ -12518,7 +12515,7 @@ evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā an
 
 **【文件：[347]威仪章与正知章/[409]b 摄取观修的方法体系 概要.md】**
 
-### 摄取观修的方法体系 概要
+#### 摄取观修的方法体系 概要
 
 - 1、无论是坐着、站着还是躺着,都要逐步地建立起定(samādhi)。(还请先闭上眼睛)
 - 2、把先前已经摄取过的名色(nāmarūpa),再重新摄取一遍。
@@ -12561,7 +12558,9 @@ evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā an
 
 **【文件：[347]威仪章与正知章/[411]a 于持双衣钵衣时正知而行.md】**
 
-### saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti，= 在持用双衣（saṅghāṭi）、钵（patta）、衣（cīvara）时，惯常以正知（sampajañña）之智（ñāṇa）而行。一、有益正知（sātthaka sampajañña）（衣）
+#### saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti，= 在持用双衣（saṅghāṭi）、钵（patta）、衣（cīvara）时，惯常以正知（sampajañña）之智（ñāṇa）而行。
+
+##### 一、有益正知（sātthaka sampajañña）（衣）
 
 此处，以穿披双衣与衣的作用、以用钵托钵进食等的作用而受用，即称为「持（dhāraṇa）＝持取」。
 穿着或披着双衣与衣去托钵的比库（bhikkhu）所获得的饮食等资具财物（āmisa）之利益，以及依照佛陀（Buddha）所宣说的、比库在受用衣时为除去寒冷等而如理省察（paccavekkhaṇā）的方法，去除炎热与寒冷、令炎热寒冷消除等之利益之法，
@@ -12572,7 +12571,7 @@ evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā an
 
 **【文件：[347]威仪章与正知章/[411]b 二、适宜正知(衣).md】**
 
-### 二、适宜正知(sappāyasampajañña)（衣）
+##### 二、适宜正知(sappāyasampajañña)（衣）
 
 对于身上称为「热(usmā)」的体温火界性质强盛的比库(bhikkhu)，以及体力虚弱的比库，细软柔滑光滑的衣是适宜(sappāya)的。
 粗糙厚重的衣则不适宜。
@@ -12596,13 +12595,13 @@ evameva kho pahārāda imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā an
 
 **【文件：[347]威仪章与正知章/[412]a 三、行处正知(衣).md】**
 
-### 三、行处正知(gocara sampajañña)（衣(cīvara)）
+##### 三、行处正知(gocara sampajañña)（衣(cīvara)）
 
 在穿着使用衣时，于四十(40)种业处(kammaṭṭhāna)当中，唯以对自己正在作意(manasikāra)修习的业处不予舍弃之力而穿着使用衣者 = 即作意于自己惯常作意的业处而穿着使用衣者，名为行处正知，应当如此了知。（Abhi, ṭṭha, 2, 344. Ma, ṭṭha, 1, 270.）
 
 **【文件：[347]威仪章与正知章/[412]b 四、无痴正知(衣).md】**
 
-### 四、无痴正知(asammoha sampajañña)（衣(cīvara)）
+##### 四、无痴正知(asammoha sampajañña)（衣(cīvara)）
 
 在蕴身之内，并不存在任何被称为我(atta)的、能穿着受用衣者。
 想要穿着衣的心(citta)生起了。
@@ -12626,7 +12625,7 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[413] 于披着受用衣时的色.md】**
 
-### 于披着受用衣(cīvara)时摄取名色(nāmarūpa)的方法
+###### 于披着受用衣(cīvara)时摄取名色(nāmarūpa)的方法
 
 于披着受用衣时,本部分分为两部分来说明:讲述无痴正知(asammoha sampajañña)如何生起、摄取名色的部分,以及为使对所得之物皆知足的随所得知足法(itarītara santosa)显现生起而作省察的部分。
 其中,摄取名色的部分,仅作概要说明。
@@ -12669,13 +12668,13 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[414]a 一、有益正知(钵).md】**
 
-### 一、有益正知(sātthakasampajañña)（钵）
+##### 一、有益正知(sātthakasampajañña)（钵）
 
 在受用钵时也是如此：当想要受用钵的时候，不急急忙忙地匆匆去拿钵，而是先这样思量 --- 「若拿着这个钵去托钵、四处行走，我将会得到食物」，如此，凭借因取用此钵而应获得的利益之法之力，应了知有益正知。（意思是说，应思量利益之法而后受用钵。）
 
 **【文件：[347]威仪章与正知章/[414]b 二、适宜正知(钵).md】**
 
-### 二、适宜正知(sappāya sampajañña)(钵)
+##### 二、适宜正知(sappāya sampajañña)(钵)
 
 再者，对于身体消瘦、体力虚弱的比库(bhikkhu)来说，沉重的钵是不适宜(asappāya)的。
 对于任何比库而言，因钵破裂，从那破裂的泥钵口沿起用绳子捆扎缝合、扎了四处五处＝四道五道之后，即便扎好、缝好又清洗过，却仍难以洗净的钵，也的确是不适宜的钵。
@@ -12689,7 +12688,7 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[415]a 三、行处正知(钵).md】**
 
-### 三、行处正知(gocara sampajañña)（钵(patta)）
+##### 三、行处正知(gocara sampajañña)（钵(patta)）
 
 在拿取使用钵时，唯以对自己惯常作意(manasikāra)的某一业处(kammaṭṭhāna)（例如——四十(40)种业处当中如安般念(ānāpāna)业处那样的业处）不予舍弃之力，方能了知**行处正知**。（Abhi, ṭṭha, 2, 344. Ma, ṭṭha, 1, 270.）
 
@@ -12698,7 +12697,7 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[415]b 四、无痴正知(钵).md】**
 
-### 四、无痴正知(asammoha sampajañña)(钵)
+##### 四、无痴正知(asammoha sampajañña)(钵)
 
 在色身(khandhākāya)之内，根本没有任何一个名为「我(atta)」、能握持钵的人。
 想要握持钵的心(citta)生起了；那个心使风元素(vāyodhātu)的自性力量特别强盛的色聚(kalāpa)群得以生起。
@@ -12716,7 +12715,7 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[415]c 名色摄取方法 概要.md】**
 
-### 名色(nāmarūpa)摄取方法 概要
+###### 名色(nāmarūpa)摄取方法 概要
 
 - 1、逐步建立定(samādhi)。
 - 2、把已摄取过的名色再度重新摄取。
@@ -12755,7 +12754,7 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[417]a 殊胜正知而行者.md】**
 
-### 殊胜正知而行者(uttamasampajānakārī)
+###### 殊胜正知而行者(uttamasampajānakārī)
 
 再讲一种方法——那些手脚残断、从溃烂的疮口一滴滴渗流着脓血、伤口里不断爬出蛆虫、被成群嗡嗡乱飞的野青蝇密密麻麻叮满、栖身在路旁公共凉亭里无所依靠的人们，当心怀怜悯、与悲(karuṇā)相应的善人们见到他们时——为了替那些无依者包扎伤口，便带来了布条、旧衣布(裹伤布)，以及盛在破瓦罐等器皿里的药物，来到那些无依者近旁放下。
 
@@ -12772,17 +12771,17 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[417]b 于食用饮用咀嚼舔尝时正知而行者.md】**
 
-### Asite pīte khāyite sāyite sampajānakārī hoti,
+#### Asite pīte khāyite sāyite sampajānakārī hoti,
 
 **= 在食用、饮用、咀嚼、舔尝之处，惯常以正知(sampajañña)之智(ñāṇa)而作。**
 
-### 一、有益正知(sātthakasampajañña)
+##### 一、有益正知(sātthakasampajañña)
 
 以「Paṭisaṅkhā yoniso piṇḍapātaṃ paṭisevāmi」——等等——在食用钵食(piṇḍapāta)时为如理省察(paccavekkhaṇā)而来、于圣典中所示的(8)种利益之法，能够加以分辨了知的智，即名为**有益正知**智。（那些利益之法在前面已经说明。）（Abhi, ṭṭha, 2, 345.）
 
 **【文件：[347]威仪章与正知章/[417]c 二、适宜正知(食物).md】**
 
-### 二、适宜正知(sappāya sampajañña)
+##### 二、适宜正知(sappāya sampajañña)
 
 在粗劣的食物(bhojana)、精美的食物、苦的味道、甜的味道等等之中，凡是以某种食物不能令某位比库(bhikkhu)生起安乐，那种食物对那位比库来说就不是适宜(sappāya)的。
 至于某种食物，是凭借向并非亲属、也未以四种资具邀请供养的男施主(dāyaka)、女施主(dāyikā)示现想要令其布施的暗示征相等手段，以不合于律(vinaya)的方式寻求得来的；而对受用那种食物的比库来说，种种不善(akusala)之法会不断增长，种种善(kusala)之法会衰退。
@@ -12792,13 +12791,13 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[418]a 三、行处正知.md】**
 
-### 三、行处正知(gocara sampajañña)
+##### 三、行处正知(gocara sampajañña)
 
 于食用、饮用、咀嚼、舔尝时，唯以不舍弃自己惯常作意(manasikāra)的根本业处(kammaṭṭhāna)而持续作意——即那正在作意的智(ñāṇa)——应当了知这便称为**行处正知**。（Abhi, ṭṭha, 2, 345. Ma, ṭṭha, 1, 271.）
 
 **【文件：[347]威仪章与正知章/[418]b 四、无痴正知.md】**
 
-### 四、无痴正知(asammoha sampajañña)
+##### 四、无痴正知(asammoha sampajañña)
 
 (一) 在色身(khandhākāya)之内，根本没有任何一个名为「我(atta)」、能进食的人。
 想要进食的心(citta)生起了。
@@ -12923,7 +12922,7 @@ nassa)，也不会生起心中不悦——忧(domanassa)；正如这个譬喻一
 
 **【文件：[347]威仪章与正知章/[423] 应当注意.md】**
 
-### 应当注意
+###### 应当注意
 
 - 一、由于把食物吞咽下去，食物进入食道、胃(新食之屋)等处、食物进入的部分，
 - 二、食物停留在胃(新食之屋)内的部分，
@@ -13051,7 +13050,7 @@ Atha vā "sammāpaṭipattimāgamma abbhantare attā nāma koci bhujanako natth�
 
 **【文件：[347]威仪章与正知章/[427]a 另一种方式 无痴正知生起的样子.md】**
 
-### 另一种方式 无痴正知（asammoha sampajañña）生起的样子
+###### 另一种方式 无痴正知（asammoha sampajañña）生起的样子
 
 - 一、以外出托钵之力，朝向托钵之村而前往，也是如此；
 - 二、在托钵之村中为求食物而四处行走、寻觅托钵食，也是如此；
@@ -13068,13 +13067,13 @@ Atha vā "sammāpaṭipattimāgamma abbhantare attā nāma koci bhujanako natth�
 
 **【文件：[347]威仪章与正知章/[427]b 于大小便时正知而作.md】**
 
-### uccārapassāvakamme sampajānakārī hoti,
+#### uccārapassāvakamme sampajānakārī hoti,
 
 **= 于大便、小便之处，惯于以正知（sampajañña）之智而作。**
 
 **【文件：[347]威仪章与正知章/[427]c 一、有益正知.md】**
 
-### 一、有益正知(sātthaka sampajañña)
+##### 一、有益正知(sātthaka sampajañña)
 
 在到了应当排泄大便小便的时候，对于那不排泄大便小便的人而言，全身会冒出汗来，双眼会转动不定，心也无法安定。
 其他种种疾病也会随之生起。
@@ -13084,7 +13083,7 @@ Atha vā "sammāpaṭipattimāgamma abbhantare attā nāma koci bhujanako natth�
 
 **【文件：[347]威仪章与正知章/[427]d 二、适宜正知.md】**
 
-### 二、适宜正知(sappāya sampajañña)
+##### 二、适宜正知(sappāya sampajañña)
 
 在寺院内，vaccakuṭi = 大便处，passāvakuṭi = 小便处——如此规定了用于大小便的处所。
 如此规定的那些处所，正是应当大小便的地方。
@@ -13107,13 +13106,13 @@ kuddhā hi amanussā, manussāpi vā jīvitakkhayaṃ pāpenti. (Dī-ṭī-1-252
 
 **【文件：[347]威仪章与正知章/[428]a 三、行处正知.md】**
 
-### 三、行处正知(gocarasampajañña)
+##### 三、行处正知(gocarasampajañña)
 
 应当了知：行者不舍弃自己惯常作意的业处(kammaṭṭhāna)（即四十种业处中的某一种），唯以持续作意业处的方式来排泄大小便，这样的舍弃（排泄）便名为**行处正知智(gocarasampajaññañāṇa)**。(Abhi, ṭṭha, 2, 347.)
 
 **【文件：[347]威仪章与正知章/[428]b 四、无痴正知.md】**
 
-### 四、无痴正知(asammoha sampajañña)
+##### 四、无痴正知(asammoha sampajañña)
 
 在色身(khandhākāya)之内，根本没有任何一个名为「我(atta)」、去做排泄大小便这一行为的人。
 想要排泄大小便的心(citta)生起了；那个心使风元素(vāyodhātu)的自性力量特别强盛的色聚(kalāpa)群得以生起。
@@ -13123,7 +13122,7 @@ kuddhā hi amanussā, manussāpi vā jīvitakkhayaṃ pāpenti. (Dī-ṭī-1-252
 
 **【文件：[347]威仪章与正知章/[429] 如何摄取名色.md】**
 
-### 如何摄取名色(nāmarūpa)
+###### 如何摄取名色(nāmarūpa)
 
 - 1. 逐步建立起定(samādhi)之后，把已经摄取过的名色再一次重新摄取。
 - 2. 请摄取有分(bhavaṅga)意明净界。
@@ -13170,7 +13169,7 @@ appadhāna＝不居主导的诸色，是以「被运送」的样态而生起的�
 
 **【文件：[347]威仪章与正知章/[430]a 以譬喻显明的方式.md】**
 
-### 以譬喻显明的方式
+###### 以譬喻显明的方式
 
 疮疖成熟、化脓熟透之后，因疮疖破裂，脓血从疮口不由自主地流出来；又如因过于充满（把水倒进水罐里直至溢出）而使水从水罐里不由自主地流出来一样；与此譬喻相同，聚集停留在大肠、膀胱中的大便与小便，由于受到（名为「心生风(cittajavāyo)」或「四因生风(catusamuṭṭhānikavāyo)」的）风元素(vāyodhātu)不断推挤之势的逼迫，虽不情愿也不得不排出。
 排出的那些大便与小便，因为已经被舍弃了，所以对那位比库(bhikkhu)而言，也不是自己的私有财物。
@@ -13231,7 +13230,7 @@ So heṭṭhā **abhikkante paṭikkante**ti ettha bhikkhācāragāmaṃ gacchat
 
 **【文件：[347]威仪章与正知章/[432]a 三藏马哈西瓦大长老的教说.md】**
 
-### 三藏(tipiṭaka)马哈西瓦(mahāsīva)大长老的教说
+#### 三藏(tipiṭaka)马哈西瓦(mahāsīva)大长老的教说
 
 在此正知(sampajañña)部分的观察区中——最后所开示的——
 
@@ -13250,7 +13249,7 @@ So heṭṭhā **abhikkante paṭikkante**ti ettha bhikkhācāragāmaṃ gacchat
 
 **【文件：[347]威仪章与正知章/[432]b 一、行走时以正知而作.md】**
 
-### 一、gate sampajānakārī hoti = 于行走时，惯常以正知(sampajañña)智而作。
+#### 一、gate sampajānakārī hoti = 于行走时，惯常以正知(sampajañña)智而作。
 
 Yo ciraṃ gantvā vā caṅkamitvā vā aparabhāge ṭhito iti paṭisañcikkhati "caṅkamanakāle pavattā rūpārūpadhammā ettheva niruddhā"ti, ayaṃ **gate sampajānakārī** nāma. (Ma-ṭṭha-1-273.)
 
@@ -13261,7 +13260,7 @@ Yo ciraṃ gantvā vā caṅkamitvā vā aparabhāge ṭhito iti paṭisañcikkh
 
 **【文件：[347]威仪章与正知章/[433]a 摄取观修的方式.md】**
 
-### 摄取观修的方式
+##### 摄取观修的方式
 
 - 1、站立时，逐步建立定(samādhi)。
 - 2、在势头尚未良好、智(ñāṇa)尚未十分锐利之前，摄取之后，把名色(nāmarūpa)再度重新摄取。
@@ -13279,7 +13278,7 @@ Yo ciraṃ gantvā vā caṅkamitvā vā aparabhāge ṭhito iti paṭisañcikkh
 
 **【文件：[347]威仪章与正知章/[433]b 二、于站立时正知而作.md】**
 
-### 二、ṭhite sampajānakārī hoti = 于站立处，惯常以正知(sampajañña)智而作。
+#### 二、ṭhite sampajānakārī hoti = 于站立处，惯常以正知(sampajañña)智而作。
 
 Yo sajjhāyaṃ vā karonto pañhaṃ vā vissajjento kammaṭṭhānaṃ vā manasikaronto ciraṃ ṭhatvā aparabhāge nisinno iti paṭisañcikkhati --- "ṭhitakāle pavattā rūpārūpadhammā ettheva niruddhā"ti.
 ayaṃ **ṭhitesampajānākārī** nāma. (Ma-ṭṭha-1-273.)
@@ -13296,7 +13295,7 @@ ayaṃ **ṭhitesampajānākārī** nāma. (Ma-ṭṭha-1-273.)
 
 **【文件：[347]威仪章与正知章/[434]a 三、于坐时正知而作.md】**
 
-### 三。nisinne sampajānakārī hoti = 于坐时惯常以正知（sampajañña）之智（ñāṇa）而作。
+#### 三。nisinne sampajānakārī hoti = 于坐时惯常以正知（sampajañña）之智（ñāṇa）而作。
 
 Yo sajjhāyādikaraṇavaseneva ciraṃ nisīditvā aparabhāge nipanno iti paṭisañcikkhati "nisinnakāle pavattā rūpārūpadhammā ettheva niruddhā"ti, ayaṃ **nisinne sampajānakārī** nāma. (Ma,ṭṭha,1,273.)
 
@@ -13311,7 +13310,7 @@ Yo sajjhāyādikaraṇavaseneva ciraṃ nisīditvā aparabhāge nipanno iti pa�
 
 **【文件：[347]威仪章与正知章/[434]b 四、五、于睡眠醒来时正知而作.md】**
 
-### 四、五、sutte jāgarite sampajānakārī hoti = 于睡眠时、于醒来时，惯于以正知(sampajañña)之智而作。
+#### 四、五、sutte jāgarite sampajānakārī hoti = 于睡眠时、于醒来时，惯于以正知(sampajañña)之智而作。
 
 Yo pana nipannako sajjhāyaṃ vā karonto kammaṭṭhānaṃ vā manasikaronto niddaṃ okkamitvā aparabhāge vuṭṭhāya iti paṭisañcikkhati "sayanakāle pavattā rūpārūpadhammā ettheva niruddhā"ti, ayaṃ **sutte jāgarite ca sampajānakārī** nāma. (Ma-ṭṭha-1-273-274.)
 
@@ -13324,7 +13323,7 @@ Yo pana nipannako sajjhāyaṃ vā karonto kammaṭṭhānaṃ vā manasikaronto
 
 **【文件：[347]威仪章与正知章/[435] 睡着与醒来.md】**
 
-### 睡着与醒来
+##### 睡着与醒来
 
 kiriyamayacittānaṃ hi appavattaṃ suttaṃ nāma, pavattaṃ jāgaritaṃ nāmāti. (Ma-ṭṭha-1-274.)
 
@@ -13358,7 +13357,7 @@ kiriyāmayacitta、kiriyāmayapavatta 这些词，由于须取用连速行在内
 
 **【文件：[347]威仪章与正知章/[436] 曾做过的梦.md】**
 
-### 曾做过的梦
+##### 曾做过的梦
 
 **na supati na paṭibujjhati na supinaṃ passatī**ti sabbenāpi ca pañcadvārikacittena neva niddaṃ okkamati, na niddāyati, na paṭibujjhati, na kiñci supinaṃ passatīti imesu tīsu ṭhānesu saha javanena vīthicittaṃ paṭikkhittaṃ. pe. evaṃ manodvārikajavaneneva paṭibujjhati, na pañcadvārikena.
 supinampi teneva passati, na pañcadvārikena. (Abhi-ṭṭha-2-388-389.)
@@ -13401,7 +13400,7 @@ asekkhā na passanti, pahīnavipallāsattā. (Abhi-ṭṭha-2-390.)
 
 **【文件：[347]威仪章与正知章/[437] 六、于说话时以正知而作.md】**
 
-### 六、bhāsite sampajānakārī hoti，= 于说话时惯以正知(sampajañña)之智(ñāṇa)而作。
+#### 六、bhāsite sampajānakārī hoti，= 于说话时惯以正知(sampajañña)之智(ñāṇa)而作。
 
 Yo pana bhāsamāno "ayaṃ saddo nāma oṭṭhe ca paṭicca dante ca jivhañca tāluñca paṭicca cittassa ca tadanurūpaṃ payogaṃ paṭicca jāyatī"ti sato sampajāno bhāsati, ciraṃ vā pana kālaṃ sajjhāyaṃ vā katvā dhammaṃ vā kathetvā kammaṭṭhānaṃ vā parivattetvā pañhaṃ vā vissajjetvā aparabhāge tuṇhībhūto iti paṭisañcikkhati "bhāsitakāle uppannā rūpārūpadhammā ettheva niruddhā"ti, ayaṃ **bhāsite sampajānakārī** nāma. (M-A-1-274.)
 
@@ -13433,7 +13432,7 @@ Yo pana bhāsamāno "ayaṃ saddo nāma oṭṭhe ca paṭicca dante ca jivhañc
 
 **【文件：[347]威仪章与正知章/[438] 说话时摄取名色的方式.md】**
 
-### 说话时摄取名色(nāmarūpa)的方式
+##### 说话时摄取名色(nāmarūpa)的方式
 
 在上述义注(aṭṭhakathā)的开释中，包含两个部分：说话时摄取名色的方式，以及说话之后摄取说话当时之名色的方式。
 说话时的摄取方式，已在前面作过简要说明。
@@ -13462,7 +13461,7 @@ Yo pana bhāsamāno "ayaṃ saddo nāma oṭṭhe ca paṭicca dante ca jivhañc
 
 **【文件：[347]威仪章与正知章/[439] 说话之后摄取名色的方式.md】**
 
-### 说话之后摄取名色的方式
+##### 说话之后摄取名色的方式
 
 经过相当长的时间诵读、念诵教理(pariyatti)法之后，或者，讲说
 法之后，或者，如(32)身分(koṭṭhāsa)业处(kammaṭṭhāna)那样的业处种类，开始
@@ -13477,7 +13476,7 @@ Yo pana bhāsamāno "ayaṃ saddo nāma oṭṭhe ca paṭicca dante ca jivhañc
 
 **【文件：[347]威仪章与正知章/[440] 七、于静默时以正知而作.md】**
 
-### 七、tuṇhībhūte sampajānakārī hoti＝于不说话、静默安住之处，惯于以正知(sampajañña)之智而作。
+#### 七、tuṇhībhūte sampajānakārī hoti＝于不说话、静默安住之处，惯于以正知(sampajañña)之智而作。
 
 yo tuṇhībhūto ciraṃ dhammaṃ vā kammaṭṭhānaṃ vā manasikatvā aparabhāge iti paṭisañcikkhati “tuṇhībhūtakāle pavattā rūpārūpadhammā ettheva niruddhā, upādārūpapavattiyā sati **bhāsati** nāma, asati **tuṇhībhavati** nāmā”ti.
 ayaṃ **tuṇhībhāve sampajānakārī** nāmāti. (M-ṭṭha-1-274.)
@@ -13504,7 +13503,7 @@ ayaṃ **tuṇhībhāve sampajānakārī** nāmāti. (M-ṭṭha-1-274.)
 
 **【文件：[347]威仪章与正知章/[441] 无痴职责.md】**
 
-### 无痴职责(asammohadhura)
+##### 无痴职责(asammohadhura)
 
 Tayidaṃ mahāsīvattherena vuttaṃ asammohadhuraṃ imasmiṃ **satipaṭṭhānasutte** adhippetaṃ.
 **Sāmaññaphale** pana sabbampi catubbidhaṃ sampajaññaṃ labbhati.
@@ -13619,7 +13618,7 @@ Ayaṃ bhikkhu gatādīsu **sampajānakārī** nāma hotīti. (阿毗达摩义�
 
 **【文件：[347]威仪章与正知章/[444] 于睡眠时正知而作.md】**
 
-### Sutte sampajānakārī hoti.
+#### Sutte sampajānakārī hoti.
 
 接着又有值得阐述之处。
 虽然在这坐、站、经行之中，已按前述方法，以能分别了知名色(nāmarūpa)的正知(sampajañña)智(ñāṇa)进行修习，但在熟睡之时，业处(kammaṭṭhāna)(即业处的观察区)却尚未明显。
@@ -13646,7 +13645,7 @@ Ayaṃ bhikkhu gatādīsu **sampajānakārī** nāma hotīti. (阿毗达摩义�
 
 **【文件：[347]威仪章与正知章/[445] 于醒来时正知而作.md】**
 
-### Jāgarite sampajānakārī nāma hoti.
+#### Jāgarite sampajānakārī nāma hoti.
 
 **jāgarite**ti jāgaraṇe. 
 tattha kiriyāmayapavattassa appavattiyā sati jāgaritaṃ nāma na hoti, kiriyāmayapavattavaḷañje pavattante jāgaritaṃ nāma hotīti pariggaṇhanto bhikkhu jāgarite sampajānakārī nāma hoti. 
@@ -13659,7 +13658,7 @@ apica rattindivaṃ cha koṭṭhāse katvā pañca koṭṭhāse jaggantopi jā
 
 **【文件：[347]威仪章与正知章/[446]a 于说话时名为正知而作者.md】**
 
-### Bhāsite sampajānakārī nāma hoti.
+#### Bhāsite sampajānakārī nāma hoti.
 
 **Bhāsite**ti kathane.
 tattha upādārūpassa saddāyatanassa appavatte sati bhāsitaṃ nāma na hoti, tasmiṃ pavattante hotīti pariggāhako bhikkhu bhāsite sampajānakārī nāma hoti.
@@ -13672,7 +13671,7 @@ vimuttāyatanasīsena dhammaṃ desentopi bāttiṃsa tiracchānakathā pahāya 
 
 **【文件：[347]威仪章与正知章/[446]b 论事(10)种.md】**
 
-### 论事（kathāvatthu）（10）种
+##### 论事（kathāvatthu）（10）种
 
 - 1。少欲论（appicchakathā）= 与少欲相关的谈论，
 - 2。知足论（santuṭṭhikathā）= 与容易知足相关的谈论，
@@ -13689,7 +13688,7 @@ vimuttāyatanasīsena dhammaṃ desentopi bāttiṃsa tiracchānakathā pahāya 
 
 **【文件：[347]威仪章与正知章/[447] 于静默时正知而作.md】**
 
-### Tuṇhībhāve sampajānakārī hoti.
+#### Tuṇhībhāve sampajānakārī hoti.
 
 **tuṇhībhāve**ti akathane.
 tattha upādārūpassa saddāyatanassa pavattiyaṃ sati tuṇhībhāvo nāma natthi, appavattiyaṃ hotīti pariggāhako bhikkhu tuṇhībhāve sampajānakārī nāma hoti.
@@ -13726,7 +13725,8 @@ aṭṭhatiṃsāya ārammaṇesu cittaruciyaṃ kammaṭṭhānaṃ gahetvā ni
 
 **【文件：[448]四念处法章/[448]b 身随观念处(一)入出息部分.md】**
 
-## 身随观（kāyānupassanā）念处（satipaṭṭhāna）（一）入出息部分（ānāpānapabba） = 入出息部分 第一阶段
+## 身随观（kāyānupassanā）念处（satipaṭṭhāna）
+### （一）入出息部分（ānāpānapabba） = 入出息部分 第一阶段
 
 so satova assasati, satova passasati.
 
@@ -13861,7 +13861,7 @@ evameva kho bhikkhave bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihita
 
 **【文件：[448]四念处法章/[452] 从界业处的进路趋向阿拉汉果.md】**
 
-### 从界业处(dhātukammaṭṭhāna)的进路趋向阿拉汉果(arahattaphala)
+#### 从界业处(dhātukammaṭṭhāna)的进路趋向阿拉汉果(arahattaphala)
 
 ime cattāro mahābhūte pariggaṇhantassa upādārūpaṃ pākaṭaṃ hoti. pa. athassa evaṃ “cattāri mahābhūtāni tevīsati upādārūpāni rūpakkhandho”ti rūpakkhandhaṃ pariggaṇhantassa āyatanadvāravasena arūpino khandhā pākaṭā honti.
 iti rūpārūpapariggaho pañcakkhandhā honti, pañcakkhandhā dvādasāyatanāni honti, dvādasāyatanāni aṭṭhārasa dhātuyo hontīti khandhāyatanadhātuvasena yamakatālakkhandhaṃ phālentoviya dve koṭṭhāse katvā nāmarūpaṃ vavatthapeti.
@@ -14267,7 +14267,7 @@ Ekaccassa taṃ ārammaṇaṃ pariggahetvā vijānantaṃ uppajjamānaṃ viñ�
 
 **【文件：[448]四念处法章/[466]a 一、触显现的个体.md】**
 
-### 一、触(phassa)显现的个体(puggala)
+#### 一、触(phassa)显现的个体(puggala)
 
 tattha yassa phasso pākaṭo hoti, sopi "na kevalaṃ phassova uppajjati, tena saddhiṃ tadevārammaṇaṃ anubhavamānā vedanāpi uppajjati, sañjānanamānā saññāpi, cetayamānā cetanāpi, vijānanamānaṃ viññāṇampi uppajjatī"ti phassapañcamakeyeva pariggaṇhāti. (Abhi-ṭṭha-2-252. Ma-ṭṭha-1-280.)
 
@@ -14275,7 +14275,7 @@ tattha yassa phasso pākaṭo hoti, sopi "na kevalaṃ phassova uppajjati, tena 
 
 **【文件：[448]四念处法章/[466]b 二、受显现的个体.md】**
 
-### 二、受(vedanā)显现的个体(puggala)
+#### 二、受(vedanā)显现的个体(puggala)
 
 yassa vedanā pākaṭā hoti, sopi “na kevalaṃ vedanāva uppajjati, tāya saddhiṃ tadevārammaṇaṃ phusamāno phassopi uppajjati, sañjānanamānā saññāpi, cetayamānā cetanāpi, vijānanamānaṃ viññāṇampi uppajjatī”ti phassapañcamakeyeva pariggaṇhāti. (Abhi-A-2-252. M-A-1-280.)
 
@@ -14283,7 +14283,7 @@ yassa vedanā pākaṭā hoti, sopi “na kevalaṃ vedanāva uppajjati, tāya s
 
 **【文件：[448]四念处法章/[467]a 三、了知心 = 识显现的个体.md】**
 
-### 三、了知心 = 识(viññāṇa)显现的个体(puggala)
+#### 三、了知心 = 识(viññāṇa)显现的个体(puggala)
 
 yassa viññāṇaṃ pākaṭaṃ hoti, sopi “na kevalaṃ viññāṇameva uppajjati, tena saddhiṃ tadevārammaṇaṃ phusamāno phassopi uppajjati, anubhavamānā vedanāpi, sañjānanamānā saññāpi, cetayamānā cetanāpi uppajjatī”ti phassapañcamakeyeva pariggaṇhāti. (Abhi-A-2-252. M-A-1-280.)
 
@@ -16205,7 +16205,7 @@ saṃkhittena pañcupādānakkhandhā dukkhā. (Abhi-2-104, M-1-82)
 
 **【文件：[448]四念处法章/[542] 苦集圣谛.md】**
 
-##### dukkhasamudaya ariyasacca
+#### dukkhasamudaya ariyasacca
 
 katamañca bhikkhave dukkhasamudayaṃ ariyasaccaṃ. 
 yāyaṃ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī. 
@@ -16917,7 +16917,7 @@ Idaṃ vuccati bhikkhave dukkhanirodhagāminī paṭipadā. (M-1-89)
 
 **【文件：[448]四念处法章/[566] 世间道支法身(八)种观照范式.md】**
 
-### 世间(lokiya)道支(maggaṅga)法身(八)种观照范式
+##### 世间(lokiya)道支(maggaṅga)法身(八)种观照范式
 
 称为世间正语(sammāvācā)、正业(sammākammanta)、正命(sammāājīva)——的世间远离(virati)心所(cetasika)诸观照范式，请按本名业处(nāmakammaṭṭhāna)部分中先前已叙述过的那样去观照。
 
@@ -16943,7 +16943,7 @@ Idaṃ vuccati bhikkhave dukkhanirodhagāminī paṭipadā. (M-1-89)
 
 **【文件：[448]四念处法章/[567] 四念处的划分与评辨方式.md】**
 
-### 四念处(satipaṭṭhāna)的划分与评辨方式
+## 四念处(satipaṭṭhāna)的划分与评辨方式
 
 Iti ime cattāro satipaṭṭhānā pubbabhāge nānācittesu labbhanti.
 Aññeneva hi cittena kāyaṃ pariggaṇhāti, aññena vedanaṃ, aññena cittaṃ, aññena dhamme pariggaṇhāti.
@@ -17018,7 +17018,9 @@ Tasmātaṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ, sa�
 令观智逐层向上增进，依观智的次第、依次精进用功，而抵达圣道(ariyamagga)智的瑜伽行者，于其圣道智正生起的刹那，与圣道智相应的念，名为**受随观**。
 具足该念的个体(puggala)，名为**受随观者**。
 
-三、心随观(cittānupassanā)念处 以智辨别心(citta)——即以心为先，辨别一切名色——加以把握，再依次第把握、修观而来的瑜伽行者，其与观智相应的念，名为**心随观**。
+### 三、心随观(cittānupassanā)念处
+
+以智辨别心(citta)——即以心为先，辨别一切名色——加以把握，再依次第把握、修观而来的瑜伽行者，其与观智相应的念，名为**心随观**。
 具足该观念的瑜伽行者，名为**心随观者**(cittānupassī)。
 令观智逐层向上增进，依观智的次第、依次精进用功，而抵达圣道智的瑜伽行者，于其圣道智正生起的刹那，与圣道智相应的念，名为**心随观**。
 具足该念的个体，名为**心随观者**。
@@ -17040,7 +17042,7 @@ Tasmātaṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ, sa�
 
 **【文件：[448]四念处法章/[570] 四念处的威力.md】**
 
-### 四念处（satipaṭṭhāna）的威力
+## 四念处（satipaṭṭhāna）的威力
 
 **kāye**ti rūpakāye. (Ma-ṭṭha-1-246.)
 
