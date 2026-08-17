@@ -107,17 +107,117 @@
 两边都是 34 段，`[1,1,3,2,1,1,1,2,1,1,1,1,3,6,1,1,1,25,1,3,1,1,3,2,7,8,1,2,1,1,1,6,3,5]`，
 完全一致。
 
-## 尚未实现（留给后续修改）
+## 上传（第三步，`upload` 子命令）
 
-- 真正把译文内容按占位符顺序回填、调用写入/更新接口上传到 wikipali（需要
-  确认认证方式、写接口路径、占位符与译文行的具体回填规则——一行一句还是
-  一段一句，是否需要保留 `**粗体**`/巴利罗马转写等 markdown 语法）。
-- `parse_fail` / 本地 key 重复 / 容器节点未匹配 这几类边界情况的人工消歧
-  或半自动修复流程。
+以**一个 md 文件为一个事务**：拉正文 → 校验 → 组句 → 写入 → 记进度。任何一篇
+出问题都只影响那一篇，其余照常继续。
+
+### 认证：三种 token，职责不能混
+
+| Token | 从哪来 | 代表谁 | 用在哪 | 有效期 |
+|---|---|---|---|---|
+| userToken | `POST /v2/sign-in` | 人类操作者 | 查/建 ai-model、签 access token、列 channel | 365 天 |
+| modelToken | `GET /v2/ai-model-token/{uid}` | AI 模型身份 | 写句子时的 `Authorization` 头 | 30 天，可撤销 |
+| accessToken | `POST /v2/access-token` | 被委托的 channel 编辑权 | 写句子时**句子对象里的字段** | 7 天 |
+
+用错会让 `editor_uid` 落成人类用户，署名与审计就废了。凭据存在
+`~/.wikipali/credentials.json`（0600），与 `wikipali-plugins` 插件**共用同一份**，
+两边可互相顶替。密码只经 `getpass` 或操作系统密码框读入内存，不落盘、不进日志、
+不进命令行参数。
+
+签 access token 时 `book` **必须是整数**——服务端用 `$jwt->book !== $book` 严格
+比较，写成 `"0"` 会让 `"0" !== 0` 恒真而永远鉴权失败。vol_5 跨十几个 book id
+（3013、3031、…、3559），所以签 `book: 0`（不限 book）的一张 token。
+返回 `count: 0` 表示对该 channel 无编辑权（服务端静默跳过，HTTP 仍是 200），
+等同 403，**立即中止，不进入写入循环**。
+
+### 占位符 → 句子坐标
+
+正文里每个非空行**恰好一个** `{{book-paragraph-word_start-word_end}}`，与
+`POST /v2/sentence` 的四个坐标字段一一对应（实测 470 篇无例外）。
+
+行内可能带 markdown 标记：`- {{…}}`、`### {{…}}`、`## {{…}}`。
+**标记是 markdown 的排版语法，不属于句子内容，一律不上传**，分两道处理：
+
+1. **模板给了标记**，本地行必须也有，剥掉；对不上就报错跳过整篇——这能抓出
+   译文与占位符错位（`[80]b` 就是这么发现的）。
+   远端 `### {{3559-1009-1-1}}` + 本地 `### 修习心…` → content 为 `修习心…`
+   （不剥会渲染成 `### ### 修习心`）。
+2. **模板是裸占位符、标记只在本地行**（几乎每篇的第一行都是这样），同样剥掉。
+   远端 `{{3013-1-11-11}}` + 本地 `### 聚思惟…` → content 为 `聚思惟…`。
+
+剥的只有**标题 `#`～`######` 与无序列表 `- * +`**。有序列表刻意不收：本文里
+`一、能直接令其生起的因之缘…`、`1. 六门…` 这类开头是译文正文，剥掉会毁内容。
+剥完为空 → 报错跳过整篇，绝不猜测。
+
+### markdown 表格：整张算一句
+
+**一张表格无论多少行，都是一个句子**，对应远端的一个占位符。段内连续的以 `|`
+开头的行合并成一个单元，`content` 是整张表格（含换行）。
+
+实证：远端 `[135] ၂။ ၀ယောဝုဍ္ဎတ္ထင်္ဂမ`（book 3439）第 4 段是单个
+`{{3439-4-1-1}}`，本地对应的是 12 行的表格。合并前后对照：
+
+```
+合并前  本地 [1, 2, 2, 12, 2, 1, 4, 1, 1, 6, 2, 2, 6, 2]
+合并后  本地 [1, 2, 2,  1, 2, 1, 4, 1, 1, 6, 2, 2, 6, 2]
+远端    　　 [1, 2, 2,  1, 2, 1, 4, 1, 1, 6, 2, 2, 6, 2]
+```
+
+**校验分段行数时用的是同一套成句算法**（`split_blocks` → `group_units`），
+否则会出现「校验通过但组句错位」或反之。合并只在段内进行，不跨空行，
+免得把相邻两段各自结尾/开头的表格误并成一张。
+
+### 写入
+
+`POST /v2/sentence`，`Authorization: Bearer <modelToken>`，每个句子对象里带
+`access_token`。单篇内部每 50 条一批（vol_5 有 35 篇超过 50 行，最长 `[300]`
+有 178 行）。
+
+按 `(book_id, paragraph, word_start, word_end, channel_uid)` 做 `firstOrNew`：
+**存在即覆盖**。天然幂等（重跑安全），但也意味着会覆盖同 channel 同坐标的已有
+句子，所以写入前必须回显 channel 并等确认。
+
+⚠ **HTTP 200 不等于全部写入**：服务端对逐句鉴权失败是静默 `continue` 掉的。
+必须把返回的 rows 与提交的句子逐条比对——注意返回用的是另一套字段名
+（`book` 而不是 `book_id`、`channel.uid`），差集要如实报告。
+
+### 进度与重跑
+
+`<vol>/chinese/_wikipali_progress.tsv`，每篇写完立即落盘（Ctrl-C 或断网都不丢）：
+
+```
+article_id  key  status  count  channel_uid  updated_at  local_path  detail
+```
+
+`status` ∈ `done` / `partial` / `build_error` / `fetch_error` / `write_error` /
+`local_missing` / `dup_remote`。重跑同一条命令时 `done` 的自动跳过，
+只重试失败的；`--retry-done` 可强制重传。
+
+进度按 `(article_id, channel_uid)` 索引，所以换 channel 重传不会被旧记录挡住。
+
+## 已知边界情况：全部只记录、只跳过，不猜测
+
+除了前面 `match` 阶段的 `parse_fail`(7) / `unmatched`(5) / `dup_local`(2)，
+上传阶段还会跳过：
+
+- **分段行数不一致**：本地译文与远端占位符结构对不上，报出第一处不同的段号；
+- **标记对不上**：模板前缀无法从本地行剥掉；
+- **`dup_remote`**：同一个 key 在远端挂着多篇文章（vol_5 里 `[354]a` 有两篇，
+  标题不同却共用 key），它们会全部指向同一个本地文件，最多只有一篇是对的，
+  其余会把译文写到错误坐标。默认全部跳过，确认无误后可加 `--allow-dup-remote`。
+
+处理完（改后台标题、拆分本地文件、调整分段）**原样重跑同一条命令**即可。
 
 ## CLI 用法
 
 ```bash
+# 首次准备（凭据已在则跳过）
+python3 tools/wikipali_sync.py login            # 密码只经 getpass/系统密码框
+python3 tools/wikipali_sync.py model --name claude-opus-5
+python3 tools/wikipali_sync.py whoami           # token 一律打码
+python3 tools/wikipali_sync.py channels --search claude
+
 # 第一步：匹配 + 落地 <vol>/chinese/_wikipali_map.tsv
 python3 tools/wikipali_sync.py match vol_5 22ae16b4-68b3-4403-b155-ede40c509c7e
 
@@ -126,6 +226,21 @@ python3 tools/wikipali_sync.py verify vol_5 22ae16b4-68b3-4403-b155-ede40c509c7e
 
 # 校验时可加 --limit 先抽查几篇，或 --sleep 调整请求间隔（默认 0.2s，避免打太快）
 python3 tools/wikipali_sync.py verify vol_5 22ae16b4-68b3-4403-b155-ede40c509c7e --limit 20
+
+# 第三步：先 dry-run 看哪些会被跳过（不签 token、不发任何写请求）
+python3 tools/wikipali_sync.py upload vol_5 22ae16b4-68b3-4403-b155-ede40c509c7e \
+        --channel 73c03e1a-f333-11f0-808a-438f0af4b9e9 --dry-run
+
+# 抽一篇真写，核对网站上的署名与位置
+python3 tools/wikipali_sync.py upload vol_5 22ae16b4-68b3-4403-b155-ede40c509c7e \
+        --channel 73c03e1a-f333-11f0-808a-438f0af4b9e9 --keys "[1]c"
+
+# 确认无误后全卷；中断后原样重跑，done 的自动跳过
+python3 tools/wikipali_sync.py upload vol_5 22ae16b4-68b3-4403-b155-ede40c509c7e \
+        --channel 73c03e1a-f333-11f0-808a-438f0af4b9e9
 ```
+
+`upload` 每次都会重新拉 article-map，所以在 wikipali 后台改完标题笔误，
+下次跑自动生效，不必单独重跑 `match`。
 
 不引入第三方库，只用标准库 `urllib.request` 发请求。
