@@ -46,6 +46,13 @@ USER_AGENT = "nibbana-gamini-patipada-wikipali-sync/1.0"
 KEY_RE = re.compile(r"^\s*(\[[^\]]+\][A-Za-z]?)")
 # wikipali 标题里 key 前常带 "NGP-Vol5-" / "NGP-Vol-5-" 之类前缀，容器节点(level 1)则没有
 TITLE_KEY_RE = re.compile(r"^(?:NGP-?Vol-?\d+-)?\s*(\[[^\]]+\][A-Za-z]?)")
+# vol_4 的远端标题把 [页码] 放在**末尾**（`ရုပ်…အခန်း[010]`），与 vol_5 的开头式相反。
+# 仅在开头式解析失败时回退，vol_5 行为不变。缅文标题末尾常跟零宽字符(U+200B/C/D)。
+TITLE_KEY_TAIL_RE = re.compile(r"(\[[^\]]+\][A-Za-z]?)[\s​‌‍]*$")
+# 带 NGP-Vol 前缀却在开头解析不出 key 的，是 `NGP-Vol-5[330]-1` / `NGP-Vol-5[332]`
+# 这类后台遗留的位置后缀节点：它们与真正的缅文标题文章撞 key（vol_5 的
+# `NGP-Vol-5[332]` 就撞了已上传的 `[332] ကြောက်မက်ဖွယ်…`），一律不做尾部回退。
+NGP_PREFIX_RE = re.compile(r"^NGP-?Vol-?\d+")
 
 MAP_HEADER = "article_id\tlevel\tchildren\tkey\ttitle\tlocal_path\tstatus\n"
 
@@ -125,7 +132,13 @@ def key_of_filename(filename):
 
 
 def key_of_title(title):
-    m = TITLE_KEY_RE.match(title.strip())
+    title = title.strip()
+    m = TITLE_KEY_RE.match(title)
+    if m:
+        return m.group(1)
+    if NGP_PREFIX_RE.match(title):
+        return None
+    m = TITLE_KEY_TAIL_RE.search(title)
     return m.group(1) if m else None
 
 
@@ -695,7 +708,18 @@ def do_channels(args):
 
 def resolve_channel(sess, given):
     """把 uid / 名字片段解析成 (uid, name)。"""
-    rows = fetch_channels(sess)
+    try:
+        rows = fetch_channels(sess)
+    except ApiError as e:
+        # channel 列表接口挂过一次(2026-08-14 一直 500)。它只是用来取个名字，
+        # 真正的权限闸门是签 access token(count: 0 = 无编辑权)，所以给了完整
+        # uid 时降级继续，名字片段则没法猜，照旧中止。
+        if len(given) >= 32:
+            note(f"⚠ channel 列表接口不可用（{e}），无法回显名字；"
+                 f"按 uid {given} 继续，编辑权仍以 access token 为准。")
+            return given, None
+        sys.exit(f"channel 列表接口不可用（{e}），无法按名字「{given}」解析，"
+                 "请改用完整 uid。")
     for ch in rows:
         if ch.get("uid") == given:
             return ch["uid"], ch.get("name")
